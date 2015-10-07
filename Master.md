@@ -7,7 +7,5 @@ Master Document
 - Internet Of Things Gateways
 - Internet of Things Cloud
 - Internet of Things Analytics
-
 - Intel® Edison
 - Intel® Galileo
-
