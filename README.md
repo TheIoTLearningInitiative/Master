@@ -1,11 +1,13 @@
 The Internet of Things Learning Initiative Master Document
 ==
 
-- Internet Of Things 101
-- Internet of Things Sensors
-- Internet Of Things Communications
-- Internet Of Things Gateways
-- Internet of Things Cloud
-- Internet of Things Analytics
-- Intel® Edison
-- Intel® Galileo
+1. Internet Of Things 101
+
+1. Intel® Edison
+2. Intel® Galileo
+
+1. Internet of Things Sensors
+2. Internet Of Things Communications
+3. Internet Of Things Gateways
+4. Internet of Things Cloud
+5. Internet of Things Analytics
