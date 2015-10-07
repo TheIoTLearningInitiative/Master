@@ -4,7 +4,7 @@ The Internet of Things Learning Initiative Master Document
 ## Phase 1
 1. Internet Of Things 101
 
-## Phase 1
+## Phase 2
 1. Intel® Edison
 2. Intel® Galileo
 
