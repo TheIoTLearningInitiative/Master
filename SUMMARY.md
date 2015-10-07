@@ -1,5 +1,4 @@
 # Summary
 
-* Master
-* 
+* [Master](Master.md)
 
