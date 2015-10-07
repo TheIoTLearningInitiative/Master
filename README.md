@@ -1,4 +1,4 @@
-The Internet of Things Learning Initiative Master Document
+The Internet of Things Learning Initiative
 ==
 
 ## Phase 1
