@@ -8,6 +8,7 @@ The Internet of Things Learning Initiative Master Document
 1. Intel® Edison
 2. Intel® Galileo
 
+## Phase 3
 1. Internet of Things Sensors
 2. Internet Of Things Communications
 3. Internet Of Things Gateways
