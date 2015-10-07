@@ -2,11 +2,11 @@ The Internet of Things Learning Initiative
 ==
 
 ## Phase 1
-1. Internet Of Things 101
+1. [Internet Of Things 101](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ## Phase 2
-1. Intel® Edison
-2. Intel® Galileo
+1. [Intel® Edison](https://theiotlearninginitiative.gitbooks.io/inteledison/)
+2. [Intel® Galileo](https://theiotlearninginitiative.gitbooks.io/intelgalileo/)
 
 ## Phase 3
 1. Internet of Things Sensors
