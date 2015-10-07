@@ -6,4 +6,3 @@ Master Document
 - Intel® Edison
 - Intel® Galileo
 
-
