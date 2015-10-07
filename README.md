@@ -1,7 +1,7 @@
 The Internet of Things Learning Initiative Master Document
 ==
 
-Stage 1
+## Phase 1
 1. Internet Of Things 101
 
 1. Intel® Edison
