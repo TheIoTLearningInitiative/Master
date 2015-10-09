@@ -20,5 +20,5 @@ The Internet of Things Learning Initiative
 ## Sessions
 
 ### Internet of Things 101
-- IJALTI Centro del Software, AA
+- October 2nd, 2015 IJALTI Centro del Software, AA
 - Intel, AA
