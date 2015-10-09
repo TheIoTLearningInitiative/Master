@@ -24,4 +24,4 @@ The Internet of Things Learning Initiative
 - September 24th, 2015 @ Intel, Abraham Arce
 
 ### Intel® Galileo
-- November 7th, 2015 @ 
+- November 7th, 2015 @ Epicentro Festival Guadalajara
