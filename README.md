@@ -24,3 +24,4 @@ The Internet of Things Learning Initiative
 - September 24th, 2015 @ Intel, Abraham Arce
 
 ### Intel® Galileo
+- 
