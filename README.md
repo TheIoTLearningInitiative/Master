@@ -21,4 +21,4 @@ The Internet of Things Learning Initiative
 
 ### Internet of Things 101
 - October 2nd, 2015 IJALTI Centro del Software, Abraham Arce
-- Intel, AA
+- September 24th, 2015 Intel, AA
