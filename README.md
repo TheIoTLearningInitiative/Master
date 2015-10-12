@@ -5,20 +5,21 @@ The Internet of Things Learning Initiative
 
 ### Phase 1
 1. [Internet Of Things 101](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
-  - Eduardo to take as Trainer
+   - Eduardo to take as Trainer
 
 ### Phase 2
 2. [Intel® Edison](https://theiotlearninginitiative.gitbooks.io/inteledison/)
-  - Pin Multiplexor, Lynette, Marco
-  - Customization, Eduardo
-  - Others, Abraham
+   - Pin Multiplexor, Lynette, Marco
+   - Customization, Eduardo
+   - Others, Abraham
 3. Intel® Galileo
-  - Eduardo to take
+   - Eduardo to take
 
 ### Phase 3
 4. Internet of Things Sensors
-   - Marco 
+   - Marco
 5. Internet Of Things Communications
+   - 
 6. Internet Of Things Communications
 7. Internet Of Things Gateways
 8. Internet of Things Cloud
