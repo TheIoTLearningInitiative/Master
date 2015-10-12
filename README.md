@@ -24,8 +24,11 @@ The Internet of Things Learning Initiative
 6. Internet Of Things IoTivity
    - Abraham
 7. Internet Of Things Gateways
+   -  Waiting for Victor for resolution who will take
 8. Internet of Things Cloud
+   - Marco
 9. Internet of Things Analytics
+   - Eduardo
 
 ## Sessions
 
