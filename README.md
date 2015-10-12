@@ -5,7 +5,7 @@ The Internet of Things Learning Initiative
 
 ### Phase 1
 1. [**Internet Of Things 101**](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
-   - Eduardo to take as Trainer
+   - Eduardo
 
 ### Phase 2
 2. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
