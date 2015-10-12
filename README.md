@@ -21,7 +21,8 @@ The Internet of Things Learning Initiative
    - Marco
 5. Internet Of Things Communications
    - Eduardo
-6. Internet Of Things Communications
+6. Internet Of Things IoTivity
+   - Abraham
 7. Internet Of Things Gateways
 8. Internet of Things Cloud
 9. Internet of Things Analytics
