@@ -13,7 +13,7 @@ The Internet of Things Learning Initiative
   - Customization, Eduardo
   - Others, Abraham
 3. Intel® Galileo
-  - Eduardo to take as Creator
+  - Eduardo to take
 
 ### Phase 3
 4. Internet of Things Sensors
