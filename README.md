@@ -13,6 +13,8 @@ The Internet of Things Learning Initiative
 ### Phase 3
 4. Internet of Things Sensors
 5. Internet Of Things Communications
+6. Internet Of Things IoTivity
+
 6. Internet Of Things Gateways
 7. Internet of Things Cloud
 8. Internet of Things Analytics
