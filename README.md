@@ -33,7 +33,7 @@ The Internet of Things Learning Initiative
 ## Sessions
 
 ### Internet of Things 101
-- October 2nd, 2015 @ IJALTI Centro del Software, Abraham Arce
+- October 2nd, 2015 @ [IJALTI Centro del Software](http://ijalti.org.mx/parque/centro-del-software/), Abraham Arce
 - September 24th, 2015 @ Intel, Abraham Arce
 
 ### Intel® Galileo
