@@ -17,17 +17,17 @@ The Internet of Things Learning Initiative
    - Eduardo
 
 ### Phase 3
-4. Internet of Things Sensors
+4. **Internet of Things Sensors**
    - Marco
-5. Internet Of Things Communications
+5. **Internet Of Things Communications**
    - Eduardo
-6. Internet Of Things IoTivity
+6. **Internet Of Things IoTivity**
    - Abraham
-7. Internet Of Things Gateways
+7. **Internet Of Things Gateways**
    -  Waiting for Victor for resolution who will take
-8. Internet of Things Cloud
+8. **Internet of Things Cloud**
    - Marco
-9. Internet of Things Analytics
+9. **Internet of Things Analytics**
    - Eduardo
 
 ## Sessions
