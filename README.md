@@ -9,7 +9,7 @@ The Internet of Things Learning Initiative
 
 ### Phase 2
 2. [Intel® Edison](https://theiotlearninginitiative.gitbooks.io/inteledison/)
-  - 
+  - Pin Multiplexor, Lynetter
 3. Intel® Galileo
 
 ### Phase 3
