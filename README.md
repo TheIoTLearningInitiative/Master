@@ -18,7 +18,6 @@ The Internet of Things Learning Initiative
 4. Internet Of Things IoTivity **New**
    - Abraham
 
-
 ### Phase 3
 5. **Internet of Things Sensors**
    - Marco
