@@ -19,7 +19,7 @@ The Internet of Things Learning Initiative
 4. Internet of Things Sensors
    - Marco
 5. Internet Of Things Communications
-   - 
+   - Eduardo
 6. Internet Of Things Communications
 7. Internet Of Things Gateways
 8. Internet of Things Cloud
