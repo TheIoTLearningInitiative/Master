@@ -38,4 +38,4 @@ The Internet of Things Learning Initiative
 
 ### Intel® Galileo
 - November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
-- November XXth, 2015 1 Hour @ Tbd)
+- November XXth, 2015 1 Hour @ Tbd
