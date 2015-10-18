@@ -11,7 +11,7 @@ The Internet of Things Learning Initiative
 2. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
    - **Pin Multiplexor**, Lynette, Marco
    - **MicroController Unit**, Charles
-   - **Customization**, Abraham
+   - **Customization**, Eduardo, Abraham
    - **Others**, Abraham
 3. Intel® Galileo
    - Eduardo
