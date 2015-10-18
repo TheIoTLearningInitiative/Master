@@ -16,7 +16,7 @@ The Internet of Things Learning Initiative
 3. Intel® Galileo
    - Eduardo
 4. Internet Of Things IoTivity **New**
-   - Abraham
+   - Emmanuel, Rollo
 
 ### Phase 3
 5. **Internet of Things Sensors**
