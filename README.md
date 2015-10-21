@@ -15,19 +15,21 @@ The Internet of Things Learning Initiative
    - **Others**, Abraham
 3. Intel® Galileo
    - Eduardo
-4. Internet Of Things IoTivity **New**
+4. Intel® Curie
+   - Tbd
+5. Internet Of Things IoTivity **New**
    - Emmanuel, Rollo
 
 ### Phase 3
-5. **Internet of Things Sensors**
+6. **Internet of Things Sensors**
    - Marco
-6. **Internet Of Things Communications**
+7. **Internet Of Things Communications**
    - Eduardo
-7. **Internet Of Things Gateways**
+8. **Internet Of Things Gateways**
    -  Waiting for Victor for resolution who will take
-8. **Internet of Things Cloud**
+9. **Internet of Things Cloud**
    - Marco
-9. **Internet of Things Analytics**
+10. **Internet of Things Analytics**
    - Eduardo
 
 ## Sessions
