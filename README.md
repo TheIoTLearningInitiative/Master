@@ -21,15 +21,17 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ### Phase 3
-6. **Internet of Things Sensors**
-   - Marco
-7. **Internet Of Things Communications**
+6. Internet Of Things 101
    - Eduardo
-8. **Internet Of Things Gateways**
-   -  Waiting for Victor for resolution who will take
-9. **Internet of Things Cloud**
+7. **Internet of Things Sensors**
    - Marco
-10. **Internet of Things Analytics**
+8. **Internet Of Things Communications**
+   - Eduardo
+9. **Internet Of Things Gateways**
+   -  Waiting for Victor for resolution who will take
+10. **Internet of Things Cloud**
+   - Marco
+11. **Internet of Things Analytics**
    - Eduardo
 
 ## Sessions
