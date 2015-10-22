@@ -24,17 +24,17 @@ The Internet of Things Learning Initiative
 ### Phase 3
 6. **Internet Of Things WindRiver**
    - Tbd
-6. **Internet Of Things Windows 10**
+7. **Internet Of Things Windows 10**
    - Tbd
-7. **Internet of Things Sensors**
+8. **Internet of Things Sensors**
    - Marco
-8. **Internet Of Things Communications**
+9. **Internet Of Things Communications**
    - Eduardo
-9. **Internet Of Things Gateways**
+10. **Internet Of Things Gateways**
    -  Waiting for Victor for resolution who will take
-10. **Internet of Things Cloud**
+11. **Internet of Things Cloud**
    - Marco
-11. **Internet of Things Analytics**
+12. **Internet of Things Analytics**
    - Eduardo
 
 ## Sessions
