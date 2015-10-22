@@ -22,7 +22,7 @@ The Internet of Things Learning Initiative
 
 ### Phase 3
 6. Internet Of Things Windows
-   - 
+   - Tbd
 7. **Internet of Things Sensors**
    - Marco
 8. **Internet Of Things Communications**
