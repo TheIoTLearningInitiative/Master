@@ -25,6 +25,8 @@ The Internet of Things Learning Initiative
    - Tbd
 7. **Internet Of Things Windows 10**
    - Tbd
+
+### Phase 4
 8. **Internet of Things Sensors**
    - Marco
 9. **Internet Of Things Communications**
