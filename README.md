@@ -21,7 +21,7 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ### Phase 3
-6. **Internet Of Things Windows**
+6. **Internet Of Things Windows 10**
    - Tbd
 7. **Internet of Things Sensors**
    - Marco
