@@ -21,7 +21,7 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ### Phase 3
-6. Internet Of Things 101
+6. Internet Of Things Windows
    - Eduardo
 7. **Internet of Things Sensors**
    - Marco
