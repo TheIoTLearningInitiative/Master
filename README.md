@@ -20,7 +20,6 @@ The Internet of Things Learning Initiative
 5. Internet Of Things IoTivity **New**
    - Emmanuel, Rollo
 
-
 ### Phase 3
 6. **Internet Of Things WindRiver**
    - Tbd
