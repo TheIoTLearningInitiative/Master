@@ -25,6 +25,8 @@ The Internet of Things Learning Initiative
    - Tbd
 7. **Internet Of Things Windows 10**
    - Tbd
+8. **Internet Of Things Brillo**
+   - Tbd
 
 ### Phase 4
 8. **Internet of Things Sensors**
