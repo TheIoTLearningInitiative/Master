@@ -8,7 +8,7 @@ Sessions
   - Abraham Arce
 
 ### Intel® Galileo
-- __[01]__November 5th, 2015 1 Hour @ Universidad de Guadalajara
+- __[01]__ November 5th, 2015 1 Hour @ Universidad de Guadalajara
   - Lynette Layne, Ricardo Rocha, Marco Salgado, Carlos Rodriguez
 
 ### Intel® Edison
