@@ -52,6 +52,6 @@ The Internet of Things Learning Initiative
 
 ### Intel® Galileo
 - November 5th, 2015 1 Hour @ Universidad de Guadalajara
-
+  - Marco Salgado, Carlos rodriguez, Lynette Layne, Ricardo Rocha
 ### Intel® Edison
 - November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
