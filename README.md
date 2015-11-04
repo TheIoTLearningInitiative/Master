@@ -1,6 +1,9 @@
 The Internet of Things Learning Initiative
 ==
 
+> Internet of Things Learning Initiative promotes collaboration 
+
+
 ## Development Phases
 
 ### Core
