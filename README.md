@@ -39,7 +39,6 @@ The Internet of Things Learning Initiative
    - Tbd
 
 ### Specialization
-
 1. **Internet Of Things WindRiver**
    - Tbd
 2. **Internet of Things Sensors**
