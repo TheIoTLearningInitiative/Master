@@ -25,7 +25,7 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ### Operating Systems
-1. **Internet Of Things Yocto**
+1. **Internet Of Things Yocto Linux**
    - Tbd
 2. **Internet Of Things Windows 10**
    - Tbd
