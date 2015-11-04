@@ -38,16 +38,15 @@ The Internet of Things Learning Initiative
 
 1. **Internet Of Things WindRiver**
    - Tbd
-
-8. **Internet of Things Sensors**
+2. **Internet of Things Sensors**
    - Marco
-9. **Internet Of Things Communications**
+3. **Internet Of Things Communications**
    - Eduardo
-10. **Internet Of Things Gateways**
+4. **Internet Of Things Gateways**
    -  Waiting for Victor for resolution who will take
-11. **Internet of Things Cloud**
+5. **Internet of Things Cloud**
    - Marco
-12. **Internet of Things Analytics**
+6. **Internet of Things Analytics**
    - Eduardo
 
 ## Sessions
