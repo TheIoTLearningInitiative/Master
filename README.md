@@ -9,10 +9,6 @@ The Internet of Things Learning Initiative
 
 ## Hardware
 1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
-   - **Pin Multiplexor**, Lynette, Marco
-   - **MicroController Unit**, Charles
-   - **Customization**, Eduardo, Abraham
-   - **Others**, Abraham
 2. Intel® Galileo
    - Eduardo
 3. Intel® Curie
