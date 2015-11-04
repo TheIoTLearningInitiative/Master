@@ -21,27 +21,27 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ## Operating Systems
-1. **IoT Yocto Project**
+1. IoT Yocto Project
    - Tbd
-2. **IoT Windows 10**
+2. IoT Windows 10
    - Tbd
-3. **IoT Google Brillo**
+3. IoT Google Brillo
    - Tbd
-4. **IoT Wind River Rocket**
+4. IoT Wind River Rocket
    - Tbd
-5. **IoT Wind River Pulsar Linux**
+5. IoT Wind River Pulsar Linux
    - Tbd
 
 ## Specialization
-1. **Internet Of Things WindRiver**
+1. Internet Of Things WindRiver
    - Tbd
-2. **Internet of Things Sensors**
+2. Internet of Things Sensors
    - Marco
-3. **Internet Of Things Communications**
+3. Internet Of Things Communications
    - Eduardo
-4. **Internet Of Things Gateways**
+4. Internet Of Things Gateways
    -  Waiting for Victor for resolution who will take
-5. **Internet of Things Cloud**
+5. Internet of Things Cloud
    - Marco
-6. **Internet of Things Analytics**
+6. Internet of Things Analytics
    - Eduardo
