@@ -18,7 +18,7 @@ The Internet of Things Learning Initiative
 3. Intel® Curie
    - Tbd
 4. Intel® MinnowBoard MAX
-   - Tbd
+   - Abraham Arce
 
 ### Frameworks
 1. Internet Of Things IoTivity **New**
