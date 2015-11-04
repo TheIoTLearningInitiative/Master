@@ -22,7 +22,7 @@ The Internet of Things Learning Initiative
 1. Internet Of Things IoTivity **New**
    - Emmanuel, Rollo
 
-### Ecosystem
+### Operating Systems
 6. **Internet Of Things WindRiver**
    - Tbd
 7. **Internet Of Things Windows 10**
