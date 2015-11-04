@@ -27,13 +27,13 @@ The Internet of Things Learning Initiative
 ### Operating Systems
 1. **IoT Yocto Project**
    - Tbd
-2. **Internet Of Things Windows 10**
+2. **IoT Windows 10**
    - Tbd
-3. **Internet Of Things Google Brillo**
+3. **IoT Google Brillo**
    - Tbd
-4. **Internet Of Things WindRiver Rocket**
+4. **IoT WindRiver Rocket**
    - Tbd
-5. **Internet Of Things WindRiver Pulsar**
+5. **IoT WindRiver Pulsar**
    - Tbd
 
 ### Specialization
