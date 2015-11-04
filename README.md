@@ -23,11 +23,11 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ### Operating Systems
-6. **Internet Of Things WindRiver**
+1. **Internet Of Things WindRiver**
    - Tbd
-7. **Internet Of Things Windows 10**
+2. **Internet Of Things Windows 10**
    - Tbd
-8. **Internet Of Things Google Brillo**
+3. **Internet Of Things Google Brillo**
    - Tbd
 
 ### Phase 4
