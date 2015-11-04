@@ -27,7 +27,7 @@ The Internet of Things Learning Initiative
    - Tbd
 2. **Internet Of Things Google Brillo**
    - Tbd
-3. **Internet Of Things WindRiver Pulsar**
+3. **Internet Of Things WindRiver Rocket**
    - Tbd
 4. **Internet Of Things WindRiver Pulsar**
    - Tbd
