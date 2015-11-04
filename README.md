@@ -33,7 +33,7 @@ The Internet of Things Learning Initiative
    - Tbd
 4. **Internet Of Things WindRiver Rocket**
    - Tbd
-4. **Internet Of Things WindRiver Pulsar**
+5. **Internet Of Things WindRiver Pulsar**
    - Tbd
 
 ### Specialization
