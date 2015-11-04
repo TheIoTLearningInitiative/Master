@@ -9,7 +9,7 @@ The Internet of Things Learning Initiative
 
 ## Companies
 
-
+1. 
 
 ### Hardware
 1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
