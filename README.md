@@ -19,11 +19,10 @@ The Internet of Things Learning Initiative
    - Tbd
 
 ### Frameworks
-
-5. Internet Of Things IoTivity **New**
+1. Internet Of Things IoTivity **New**
    - Emmanuel, Rollo
 
-### Phase 3
+### Ecosystem
 6. **Internet Of Things WindRiver**
    - Tbd
 7. **Internet Of Things Windows 10**
