@@ -9,6 +9,8 @@ The Internet of Things Learning Initiative
 
 ## Companies
 
+
+
 ### Hardware
 1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
    - **Pin Multiplexor**, Lynette, Marco
