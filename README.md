@@ -3,11 +3,11 @@ The Internet of Things Learning Initiative
 
 ## Development Phases
 
-### Phase 1
+### Core
 1. [**Internet Of Things 101**](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
    - Eduardo
 
-### Phase 2
+### Hardware
 2. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
    - **Pin Multiplexor**, Lynette, Marco
    - **MicroController Unit**, Charles
