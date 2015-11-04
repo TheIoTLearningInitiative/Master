@@ -49,7 +49,7 @@ The Internet of Things Learning Initiative
 - September 24th, 2015 @ Intel, Abraham Arce
 
 ### Intel® Galileo
-- November 05th, 2015 1 Hour @ Universidad de Guadalajara
+- November 5th, 2015 1 Hour @ Universidad de Guadalajara
 
 ### Intel® Edison
 - November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
