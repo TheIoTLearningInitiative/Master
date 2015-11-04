@@ -1,9 +1,7 @@
 The Internet of Things Learning Initiative
 ==
 
-> Internet of Things Learning Initiative promotes STEM (Science, Technology, Engineering and Mathematics) education across 
-real-world problems
-
+> Internet of Things Learning Initiative promotes STEM (Science, Technology, Engineering and Mathematics) education...
 
 
 ## Development Phases
