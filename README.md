@@ -3,11 +3,11 @@ The Internet of Things Learning Initiative
 
 > Internet of Things Learning Initiative promotes education in Science, Technology, Engineering, Mathematics and Robotics through a collaboration model primarily thought to generate a strong talent pool of “Internet of Everything” players.
 
-### Core
+## Core
 1. [**Internet Of Things 101**](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
    - Eduardo
 
-### Hardware
+## Hardware
 1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
    - **Pin Multiplexor**, Lynette, Marco
    - **MicroController Unit**, Charles
@@ -20,11 +20,11 @@ The Internet of Things Learning Initiative
 4. Intel® MinnowBoard MAX
    - Abraham
 
-### Frameworks
+## Frameworks
 1. Internet Of Things IoTivity **New**
    - Emmanuel, Rollo
 
-### Operating Systems
+## Operating Systems
 1. **IoT Yocto Project**
    - Tbd
 2. **IoT Windows 10**
@@ -36,7 +36,7 @@ The Internet of Things Learning Initiative
 5. **IoT Wind River Pulsar Linux**
    - Tbd
 
-### Specialization
+## Specialization
 1. **Internet Of Things WindRiver**
    - Tbd
 2. **Internet of Things Sensors**
