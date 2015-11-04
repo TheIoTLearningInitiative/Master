@@ -30,7 +30,7 @@ The Internet of Things Learning Initiative
 3. **Internet Of Things Google Brillo**
    - Tbd
 
-### Phase 4
+### Specialization
 8. **Internet of Things Sensors**
    - Marco
 9. **Internet Of Things Communications**
