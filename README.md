@@ -17,6 +17,8 @@ The Internet of Things Learning Initiative
    - Eduardo
 3. Intel® Curie
    - Tbd
+4. Intel® Minnowboard MAX
+   - Tbd
 
 ### Frameworks
 1. Internet Of Things IoTivity **New**
