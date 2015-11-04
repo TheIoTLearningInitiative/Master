@@ -7,11 +7,6 @@ The Internet of Things Learning Initiative
 1. [**Internet Of Things 101**](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
    - Eduardo
 
-## Companies
-
-1. **Internet Of Things WindRiver**
-   - Tbd
-
 ### Hardware
 1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
    - **Pin Multiplexor**, Lynette, Marco
@@ -37,6 +32,11 @@ The Internet of Things Learning Initiative
 3. **Internet Of Things WindRiver Rocket**
    - Tbd
 4. **Internet Of Things WindRiver Pulsar**
+   - Tbd
+
+## Companies
+
+1. **Internet Of Things WindRiver**
    - Tbd
 
 ### Specialization
