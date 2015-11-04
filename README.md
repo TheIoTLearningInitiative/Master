@@ -8,15 +8,18 @@ The Internet of Things Learning Initiative
    - Eduardo
 
 ### Hardware
-2. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
+1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
    - **Pin Multiplexor**, Lynette, Marco
    - **MicroController Unit**, Charles
    - **Customization**, Eduardo, Abraham
    - **Others**, Abraham
-3. Intel® Galileo
+2. Intel® Galileo
    - Eduardo
-4. Intel® Curie
+3. Intel® Curie
    - Tbd
+
+### Frameworks
+
 5. Internet Of Things IoTivity **New**
    - Emmanuel, Rollo
 
