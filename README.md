@@ -7,6 +7,8 @@ The Internet of Things Learning Initiative
 1. [**Internet Of Things 101**](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
    - Eduardo
 
+## 
+
 ### Hardware
 1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
    - **Pin Multiplexor**, Lynette, Marco
