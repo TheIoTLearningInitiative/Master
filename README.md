@@ -33,9 +33,9 @@ The Internet of Things Learning Initiative
    - Tbd
 3. **IoT Google Brillo**
    - Tbd
-4. **IoT WindRiver Rocket**
+4. **IoT Wind River Rocket**
    - Tbd
-5. **IoT WindRiver Pulsar Linux**
+5. **IoT Wind River Pulsar Linux**
    - Tbd
 
 ### Specialization
