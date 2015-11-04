@@ -1,7 +1,7 @@
 The Internet of Things Learning Initiative
 ==
 
-> Internet of Things Learning Initiative promotes innovation through training
+> Internet of Things Learning Initiative promotes innovation in the through training
 
 
 ## Development Phases
