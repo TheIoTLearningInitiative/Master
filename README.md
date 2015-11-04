@@ -23,7 +23,7 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ### Operating Systems
-1. **Internet Of Things WindRiver Pulsat**
+1. **Internet Of Things WindRiver Pulsar**
    - Tbd
 2. **Internet Of Things Windows 10**
    - Tbd
