@@ -23,11 +23,13 @@ The Internet of Things Learning Initiative
    - Emmanuel, Rollo
 
 ### Operating Systems
-1. **Internet Of Things WindRiver Pulsar**
+1. **Internet Of Things Windows 10**
    - Tbd
-2. **Internet Of Things Windows 10**
+2. **Internet Of Things Google Brillo**
    - Tbd
-3. **Internet Of Things Google Brillo**
+3. **Internet Of Things WindRiver Pulsar**
+   - Tbd
+4. **Internet Of Things WindRiver Pulsar**
    - Tbd
 
 ### Specialization
