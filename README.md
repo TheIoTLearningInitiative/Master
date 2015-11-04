@@ -34,12 +34,11 @@ The Internet of Things Learning Initiative
 4. **Internet Of Things WindRiver Pulsar**
    - Tbd
 
-## Companies
+### Specialization
 
 1. **Internet Of Things WindRiver**
    - Tbd
 
-### Specialization
 8. **Internet of Things Sensors**
    - Marco
 9. **Internet Of Things Communications**
