@@ -5,6 +5,7 @@ The Internet of Things Learning Initiative
 
 ## Structure
 
+- Training
 - Mentoring
 
 
