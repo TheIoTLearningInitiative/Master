@@ -8,7 +8,6 @@ The Internet of Things Learning Initiative
 - Training
 - Mentoring
 
-
 ## Curricula
 
 ### Core
