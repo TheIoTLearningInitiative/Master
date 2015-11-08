@@ -7,6 +7,7 @@ The Internet of Things Learning Initiative
 
 - Training
 - Mentoring
+- Development
 
 ## Curricula
 
