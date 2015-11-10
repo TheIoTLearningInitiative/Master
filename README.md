@@ -39,7 +39,7 @@ The Internet of Things Learning Initiative
    - Tbd
 5. IoT Wind River Pulsar Linux
    - Tbd
-6. IoT Contiki OS
+6. IoT Contiki Operating system
 
 ### Specialization
 1. Internet Of Things WindRiver
