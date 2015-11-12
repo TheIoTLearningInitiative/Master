@@ -9,6 +9,11 @@ Sessions
   - Abraham Arce
   - 20 Attendees
 
+### Intel® Boards
+- __[01]__ November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
+  - Abraham Arce
+  - 12 Attendees
+
 ### Intel® Edison
 - __[01]__ November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
   - Abraham Arce
