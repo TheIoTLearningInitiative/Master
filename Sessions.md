@@ -9,11 +9,6 @@ Sessions
   - Abraham Arce
   - 20 Attendees
 
-### Intel® Galileo
-- __[01]__ November 5th, 2015 1 Hour @ Universidad de Guadalajara
-  - Lynette Layne, Ricardo Rocha, Marco Salgado, Carlos Rodriguez
-  - 20 Attendees
-
 ### Intel® Edison
 - __[01]__ November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
   - Abraham Arce
