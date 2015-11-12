@@ -12,7 +12,7 @@ Sessions
 ### Intel® Boards
 - __[01]__ November 12th, 2015, 1 Hour @ Intel
   - Lynette Layne, Marco Salgado
-  - 12 Attendees
+  - xx Attendees
 
 ### Intel® Edison
 - __[01]__ November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
