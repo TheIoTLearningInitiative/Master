@@ -10,8 +10,8 @@ Sessions
   - 20 Attendees
 
 ### Intel® Boards
-- __[01]__ November 7th, 2015, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
-  - Abraham Arce
+- __[01]__ November 12th, 2015, 1 Hour @ Intel
+  - Lynette Layne, Marco Salgado
   - 12 Attendees
 
 ### Intel® Edison
