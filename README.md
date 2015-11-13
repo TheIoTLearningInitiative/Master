@@ -43,6 +43,8 @@ The Internet of Things Learning Initiative
    - Tbd
 7. IoT Real Time Linux  
    - Tbd
+7. IoT FreeRTOS  
+   - Tbd
 
 ### Specialization
 1. Internet Of Things WindRiver
