@@ -7,7 +7,7 @@ ToDo. Explain initiative
 
 - Difference with Forums
 - Structured
-- 
+- PoC
 
 ## Structure
 
