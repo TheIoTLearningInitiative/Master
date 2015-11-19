@@ -5,7 +5,8 @@ The Internet of Things Learning Initiative
 
 ToDo. Explain initiative
 
-- Difference with 
+- Difference with Forums
+- 
 
 ## Structure
 
