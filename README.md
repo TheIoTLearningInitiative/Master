@@ -11,7 +11,7 @@ ToDo. Explain initiative
 - No Rework
 - Open
 - Everyone can take it
-- 
+- Easy to understand
 
 ## Structure
 
