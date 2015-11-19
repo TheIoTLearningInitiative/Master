@@ -6,7 +6,7 @@ The Internet of Things Learning Initiative
 ToDo. Explain initiative
 
 - Difference with Forums
-- Structured
+- Structured, Avoid having knowledge everywhere
 - PoC
 - No Rework
 - Open
