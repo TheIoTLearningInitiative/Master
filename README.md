@@ -12,6 +12,7 @@ ToDo. Explain initiative
 - Open
 - Everyone can take it
 - Easy to understand
+- IoT is about a solution not a particular topic
 
 ## Structure
 
