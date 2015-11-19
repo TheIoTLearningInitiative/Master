@@ -8,6 +8,7 @@ ToDo. Explain initiative
 - Difference with Forums
 - Structured
 - PoC
+- No Rework
 
 ## Structure
 
