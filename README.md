@@ -10,7 +10,7 @@ ToDo. Explain initiative
 - PoC
 - No Rework
 - Open
-- 
+- Everyone can take it
 
 ## Structure
 
