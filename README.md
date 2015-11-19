@@ -9,6 +9,7 @@ ToDo. Explain initiative
 - Structured
 - PoC
 - No Rework
+- Open
 - 
 
 ## Structure
