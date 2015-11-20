@@ -71,9 +71,7 @@ ToDo. Explain initiative
 
 ### Platforms
 
-1. Internet of Things Intel
-   - Tbd
-2. AWS IoT
+1. AWS IoT
    - Tbd
 3. Internet of Things Microsoft
    - Tbd
