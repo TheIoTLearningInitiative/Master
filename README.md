@@ -58,15 +58,17 @@ ToDo. Explain initiative
    - Tbd
 
 ### Specialization
+1. Internet of Things Sensors
+   - Marco
+2. Internet Of Things Communications
+   - Eduardo
+3. Internet Of Things Gateways
+   -  Waiting for Victor for resolution who will take
+4. Internet of Things Cloud
+   - Marco
+5. Internet of Things Analytics
+   - Eduardo
+
+### 
 1. Internet Of Things WindRiver
    - Tbd
-2. Internet of Things Sensors
-   - Marco
-3. Internet Of Things Communications
-   - Eduardo
-4. Internet Of Things Gateways
-   -  Waiting for Victor for resolution who will take
-5. Internet of Things Cloud
-   - Marco
-6. Internet of Things Analytics
-   - Eduardo
