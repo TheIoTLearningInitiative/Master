@@ -1,6 +1,6 @@
 Equipment
 ==
 
-[30] Intel Edison
-[] 
+[30] Intel Edison with Arduino Breakout Board
+
 
