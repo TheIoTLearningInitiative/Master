@@ -71,7 +71,7 @@ ToDo. Explain initiative
 
 ### Platforms
 
-1. AWS IoT
+1. Amazon AWS IoT
    - Tbd
 3. Azure IoT Suite
    - Tbd
