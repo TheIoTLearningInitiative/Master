@@ -1,5 +1,5 @@
 Equipment
 ==
 
-Intel Edison
+[30] Intel Edison
 
