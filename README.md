@@ -75,5 +75,5 @@ ToDo. Explain initiative
    - Tbd
 3. Azure IoT Suite
    - Tbd
-4. Internet of Things IBM
+4. IBM Internet of Things
    - Tbd
