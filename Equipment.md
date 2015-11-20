@@ -1,6 +1,6 @@
 Equipment
 ==
 
-[30] Intel Edison with Arduino Expansion Baord
+[30] Intel Edison with Arduino Expansion Board
 
 
