@@ -70,5 +70,6 @@ ToDo. Explain initiative
    - Eduardo
 
 ### Platforms
-1. Internet Of Things WindRiver
+
+1. Internet Of Things AWS IoT
    - Tbd
