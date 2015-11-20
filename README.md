@@ -73,7 +73,7 @@ ToDo. Explain initiative
 
 1. AWS IoT
    - Tbd
-3. Internet of Things Microsoft
+3. Azure IoT Suite
    - Tbd
 4. Internet of Things IBM
    - Tbd
