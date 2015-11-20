@@ -69,6 +69,6 @@ ToDo. Explain initiative
 5. Internet of Things Analytics
    - Eduardo
 
-### Frameworks
+### Platforms
 1. Internet Of Things WindRiver
    - Tbd
