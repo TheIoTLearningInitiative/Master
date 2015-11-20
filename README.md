@@ -73,7 +73,7 @@ ToDo. Explain initiative
 
 1. Internet of Things Intel
    - Tbd
-2. Internet of Things Amazon
+2. Internet of Things AWS IoT
    - Tbd
 3. Internet of Things Microsoft
    - Tbd
