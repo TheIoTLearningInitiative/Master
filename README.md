@@ -71,5 +71,5 @@ ToDo. Explain initiative
 
 ### Platforms
 
-1. AWS IoT
+1. Internet of Things Amazon
    - Tbd
