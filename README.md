@@ -75,7 +75,7 @@ ToDo. Explain initiative
    - Tbd
 2. Internet of Things Amazon
    - Tbd
-3. Internet of Things Amazon
+3. Internet of Things Microsoft
    - Tbd
-4. Internet of Things Amazon
+4. Internet of Things IBM
    - Tbd
