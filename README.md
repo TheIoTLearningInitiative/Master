@@ -71,7 +71,7 @@ ToDo. Explain initiative
 
 ### Platforms
 
-1. Amazon Web Services IoT
+1. [Amazon Web Services IoT](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
    - Tbd
 3. Microsoft Azure IoT Suite
    - Tbd
