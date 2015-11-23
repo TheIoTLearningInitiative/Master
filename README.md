@@ -48,7 +48,7 @@ ToDo. Explain initiative
    - Tbd
 4. IoT Wind River Rocket
    - Tbd
-5. IoT Wind River Pulsar Linux
+5. [IoT Wind River Pulsar Linux](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
    - Tbd
 6. IoT Contiki
    - Tbd
