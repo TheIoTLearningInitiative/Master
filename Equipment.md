@@ -14,3 +14,4 @@ Equipment
 - [30] [Intel Galileo](http://www.seeedstudio.com/depot/Intel-Galileo-p-1704.html)
 - [30] [Grove Starter Kit Plus – Intel IoT Edition](http://www.seeedstudio.com/depot/Grove-starter-kit-plus-Intel-IoT-Edition-for-Intel-Galileo-Gen-2-and-Edison-p-1978.html?ref=staffPicked)
 - [2] [Laptops with extended storage]()
+- 
