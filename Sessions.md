@@ -8,7 +8,7 @@ Sessions
 - __[02]__ September 24th, 2015 @ Intel
   - Abraham Arce
   - 20 Attendees
-- __[02]__ December 10th, 2015 @ Octavo Coloquio de Innovación, Tecnología y Competitividad del Postgrado en Ciencias Computacionales de la UAG
+- __[03]__ December 10th, 2015 @ Octavo Coloquio de Innovación, Tecnología y Competitividad del Postgrado en Ciencias Computacionales de la UAG
   - Eduardo Regalado, Abraham Arce
 
 ### Intel® Boards
