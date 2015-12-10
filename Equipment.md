@@ -3,7 +3,7 @@ Equipment
 
 ## Centro de Software
 
-- [3] [Intel Edison]()
+- [3] [Intel Edison](http://www.seeedstudio.com/depot/Intel-Edison-Breakout-Kit-p-2151.html?cPath=6_7)
 - [3] [Intel Galileo](http://www.seeedstudio.com/depot/Intel-Galileo-p-1704.html)
 - [] [Cable Micro USB A-B](http://www.330ohms.com/Cable-Micro-USB-A-B_p_208.html)
 - [Cables USB / Cables IEEE 1394 USB Embedded Serial Conv 3V3 0.1" Hdr](http://www.mouser.mx/ProductDetail/FTDI/TTL-232R-3V3/?qs=sGAEpiMZZMuGxYVy11yKKo9Jh1vSyHd5j3BYkuIZ9TA%3d)
