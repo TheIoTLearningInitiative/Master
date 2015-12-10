@@ -7,6 +7,8 @@ Equipment
 - [3] [Intel Galileo](http://www.seeedstudio.com/depot/Intel-Galileo-p-1704.html)
 - [9] [Cable Micro USB A-B](http://www.330ohms.com/Cable-Micro-USB-A-B_p_208.html)
 - [3] [Cables USB / Cables IEEE 1394 USB Embedded Serial Conv 3V3 0.1" Hdr](http://www.mouser.mx/ProductDetail/FTDI/TTL-232R-3V3/?qs=sGAEpiMZZMuGxYVy11yKKo9Jh1vSyHd5j3BYkuIZ9TA%3d)
+- [5] Laptop
+- [2] Desktop
 
 ## 2016
 
