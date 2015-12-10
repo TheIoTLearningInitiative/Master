@@ -3,23 +3,6 @@ The Internet of Things Learning Initiative
 
 > Internet of Things Learning Initiative promotes education in Science, Technology, Engineering, Mathematics and Robotics through a collaboration model primarily thought to generate a strong talent pool of “Internet of Everything” players.
 
-ToDo. Explain initiative
-
-- Difference with Forums
-- Structured, Avoid having knowledge everywhere
-- PoC
-- No Rework
-- Open
-- Everyone can take it
-- Easy to understand
-- IoT is about a solution not a particular topic
-
-## Structure
-
-- Training
-- Mentoring
-- Development
-
 ## Curricula
 
 ### Core
