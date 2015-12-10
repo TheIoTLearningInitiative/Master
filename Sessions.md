@@ -8,8 +8,9 @@ Sessions
 - __[02]__ September 24th, 2015 @ Intel
   - Abraham Arce
   - 20 Attendees
-- __[02]__ September 24th, 2015 @ Intel
+- __[02]__ December 10th, 2015 @ UAG Coloquio
   - Eduardo Regalado, Abraham Arce
+
 ### Intel® Boards
 - __[01]__ November 12th, 2015, 1 Hour @ Intel
   - Lynette Layne, Marco Salgado
