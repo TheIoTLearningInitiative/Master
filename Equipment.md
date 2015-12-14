@@ -17,7 +17,6 @@ Equipment
 - [09] [Cable Micro USB A-B](http://www.steren.com.mx/cable-usb-a-a-micro-usb-b-de-30-cm.html)
 - [03] [Cables USB / Cables IEEE 1394 USB Embedded Serial Conv 3V3 0.1" Hdr](http://www.mouser.mx/ProductDetail/FTDI/TTL-232R-3V3/?qs=sGAEpiMZZMuGxYVy11yKKo9Jh1vSyHd5j3BYkuIZ9TA%3d)
 - [05] Laptop
-- [02] Desktop
 
 ## 2016
 
