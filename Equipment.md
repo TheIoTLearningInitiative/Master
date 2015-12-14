@@ -18,7 +18,7 @@ Equipment
 - [03] [Cables USB / Cables IEEE 1394 USB Embedded Serial Conv 3V3 0.1" Hdr](http://www.mouser.mx/ProductDetail/FTDI/TTL-232R-3V3/?qs=sGAEpiMZZMuGxYVy11yKKo9Jh1vSyHd5j3BYkuIZ9TA%3d)
 - [05] Laptop
 
-## 2016
+## 2016 Training
 
 - [30] [Intel Edison with Arduino Expansion Board](http://www.seeedstudio.com/depot/Intel-Edison-for-Arduino-p-2149.html)
 - [30] [Intel Galileo](http://www.seeedstudio.com/depot/Intel-Galileo-p-1704.html)
