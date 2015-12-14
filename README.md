@@ -6,11 +6,11 @@ The Internet of Things Learning Initiative
 ## Curricula
 
 ### Core
-1. [**Internet Of Things 101**](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
+1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
    - Eduardo
 
 ### Hardware
-1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/)
+1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/)
 2. Intel® Galileo
    - Eduardo
 3. Intel® Curie
