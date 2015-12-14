@@ -60,4 +60,4 @@ The Internet of Things Learning Initiative
    - Tbd
 4. IBM Internet of Things
    - Tbd
-5. Wind River IoT](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
+5. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
