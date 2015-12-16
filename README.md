@@ -35,7 +35,7 @@ The Internet of Things Learning Initiative
    - Tbd
 6. IoT Contiki
    - Tbd
-7. IoT Real Time Linux  
+7. [IoT Real Time Linux](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
    - Tbd
 7. IoT FreeRTOS  
    - Tbd
