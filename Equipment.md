@@ -10,7 +10,7 @@ Equipment
 - [05] Laptop
 - [02] Desktop
 
-## Mind
+## MIND
 
 - [03] [97.95 USD] [Intel Edison](http://www.seeedstudio.com/depot/Intel-Edison-for-Arduino-p-2149.html?cPath=6_7)
 - [03] [67.50] [Intel Galileo](http://www.seeedstudio.com/depot/Intel-Galileo-Gen-2-p-2014.html?cPath=6_7)
