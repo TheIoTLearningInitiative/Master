@@ -16,13 +16,13 @@ Equipment
 | -------- | ---------------- | --------------- | ------------------ |
 |    03    |        97.95     |       291.75    | [Intel Edison](http://www.seeedstudio.com/depot/Intel-Edison-for-Arduino-p-2149.html?cPath=6_7) |
 |    03    |        67.50     |       202.05    | [Intel Galileo](http://www.seeedstudio.com/depot/Intel-Galileo-Gen-2-p-2014.html?cPath=6_7) |
-|    20    |        79        |      1580       | [Grove Starter Kit Plus – Intel IoT Edition](http://www.seeedstudio.com/depot/Grove-starter-kit-plus-Intel-IoT-Edition-for-Intel-Galileo-Gen-2-and-Edison-p-1978.html?ref=staffPicked) |
+|    06    |        79        |       474       | [Grove Starter Kit Plus – Intel IoT Edition](http://www.seeedstudio.com/depot/Grove-starter-kit-plus-Intel-IoT-Edition-for-Intel-Galileo-Gen-2-and-Edison-p-1978.html?ref=staffPicked) |
 |    09    |         5        |        45       | [Cable Micro USB A-B](http://www.steren.com.mx/cable-usb-a-a-micro-usb-b-de-30-cm.html) |
 |    03    |        26.00     |        78       | [Cables USB / Cables IEEE 1394 USB Embedded Serial Conv 3V3 0.1" Hdr](http://www.mouser.mx/ProductDetail/FTDI/TTL-232R-3V3/?qs=sGAEpiMZZMuGxYVy11yKKo9Jh1vSyHd5j3BYkuIZ9TA%3d) |
 |    05    |        900       |      4500       | [Lenovo - Laptop 80FA0000LM de 15.6"](http://www.bestbuy.com.mx/productos/landing-promociones/computadoras/equipos-lenovo/lenovo-laptop-80fa0000lm-de-15-6-intel-core-i5-memoria-de-8-gb-disco-duro-de-1-tb-negro-80fa0000lm.html) |
 |    01    |        900       |       900       | [Asus - All In One ET2325 de 23.5" - Intel Pentium](http://www.bestbuy.com.mx/productos/computadoras/all-in-one/asus-all-in-one-et2325-de-23-5-intel-pentium-memoria-de-8-gb-disco-duro-de-2-tb-negro.html))
 |    01    |        800       |       800       | [Samsung - Pantalla de 48" - LED](http://www.bestbuy.com.mx/productos/experiencias/samsung/productos-samsung/samsung-pantalla-de-48-led-3840p-smart-tv-ultra-hd-negro.html) |
-|          |     Grand Total  |     8396.80
+|          |     Grand Total  |     7290.80
 
 ## 2016 Training
 
