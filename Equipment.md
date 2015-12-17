@@ -30,4 +30,4 @@ Equipment
 - [20] [Grove Starter Kit Plus – Intel IoT Edition](http://www.seeedstudio.com/depot/Grove-starter-kit-plus-Intel-IoT-Edition-for-Intel-Galileo-Gen-2-and-Edison-p-1978.html?ref=staffPicked)
 - [60] [Cable Micro USB A-B](http://www.steren.com.mx/cable-usb-a-a-micro-usb-b-de-30-cm.html)
 - [20] [Cables USB / Cables IEEE 1394 USB Embedded Serial Conv 3V3 0.1" Hdr](http://www.mouser.mx/ProductDetail/FTDI/TTL-232R-3V3/?qs=sGAEpiMZZMuGxYVy11yKKo9Jh1vSyHd5j3BYkuIZ9TA%3d)
-- [02] [Laptop i7 with extended RAM and Storage]
+- [02] [Laptop i7 with extended RAM and Storage]()
