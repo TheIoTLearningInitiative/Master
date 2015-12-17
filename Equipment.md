@@ -22,7 +22,7 @@ Equipment
 |    05    |        900       |      4500       | [Lenovo - Laptop 80FA0000LM de 15.6"](http://www.bestbuy.com.mx/productos/landing-promociones/computadoras/equipos-lenovo/lenovo-laptop-80fa0000lm-de-15-6-intel-core-i5-memoria-de-8-gb-disco-duro-de-1-tb-negro-80fa0000lm.html) |
 |    01    |        900       |       900       | [Asus - All In One ET2325 de 23.5" - Intel Pentium](http://www.bestbuy.com.mx/productos/computadoras/all-in-one/asus-all-in-one-et2325-de-23-5-intel-pentium-memoria-de-8-gb-disco-duro-de-2-tb-negro.html))
 |    01    |        800       |       800       | [Samsung - Pantalla de 48" - LED](http://www.bestbuy.com.mx/productos/experiencias/samsung/productos-samsung/samsung-pantalla-de-48-led-3840p-smart-tv-ultra-hd-negro.html) |
-|          |     Grand Total  |     7290.80
+|          |     Grand Total  |     7290.80     | |
 
 ## 2016 Training
 
