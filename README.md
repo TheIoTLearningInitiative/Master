@@ -12,7 +12,7 @@ The Internet of Things Learning Initiative
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/)
 2. Intel® Galileo
 3. Intel® Curie
-4. Intel® MinnowBoard MAX
+4. MinnowBoard MAX
 
 ### Frameworks
 1. Internet Of Things IoTivity
