@@ -36,7 +36,7 @@ The Internet of Things Learning Initiative
 
 ### Platforms
 
-1. [Amazon Web Services IoT](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
+1. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
 3. Microsoft Azure IoT Suite
 4. IBM Internet of Things
 5. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
