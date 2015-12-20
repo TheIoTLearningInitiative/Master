@@ -22,9 +22,9 @@ The Internet of Things Learning Initiative
 2. IoT Windows 10
 3. IoT Google Brillo
 4. IoT Wind River Rocket
-5. [IoT Wind River Pulsar Linux](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
+5. [__IoT Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
 6. IoT Contiki
-7. [IoT Real Time Linux](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
+7. [__IoT Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
 7. IoT FreeRTOS  
 
 ### Specialization
