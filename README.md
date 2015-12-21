@@ -15,7 +15,7 @@ The Internet of Things Learning Initiative
 4. MinnowBoard MAX
 
 ### Frameworks
-1. Internet Of Things IoTivity
+1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
 
 ### Operating Systems
 1. Yocto Project
