@@ -21,7 +21,7 @@ The Internet of Things Learning Initiative
 1. Yocto Project
 2. Windows 10
 3. [__Google Brillo__](https://theiotlearninginitiative.gitbooks.io/googlebrillo/content/)
-4. [Wind River Rocket__](https://theiotlearninginitiative.gitbooks.io/iotwindriverrocket/content/)
+4. [__Wind River Rocket__](https://theiotlearninginitiative.gitbooks.io/iotwindriverrocket/content/)
 5. [__Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
 6. Contiki
 7. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
