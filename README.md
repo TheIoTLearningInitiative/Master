@@ -33,7 +33,7 @@ The Internet of Things Learning Initiative
 2. [__Internet Of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
 3. [__Internet Of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
 4. [__Internet of Things Cloud__](https://theiotlearninginitiative.gitbooks.io/internetofthingscloud/content/)
-5. Internet of Things Analytics
+5. [__Internet of Things Analytics__]()
 
 ### Platforms
 1. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
