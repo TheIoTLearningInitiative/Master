@@ -32,7 +32,7 @@ The Internet of Things Learning Initiative
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
 2. [__Internet Of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
 3. [__Internet Of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
-4. Internet of Things Cloud
+4. [__Internet of Things Cloud__](https://theiotlearninginitiative.gitbooks.io/internetofthingscloud/content/)
 5. Internet of Things Analytics
 
 ### Platforms
