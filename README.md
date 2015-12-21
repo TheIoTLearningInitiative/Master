@@ -26,7 +26,7 @@ The Internet of Things Learning Initiative
 6. Contiki
 7. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
 7. FreeRTOS
-8. Snappy Ubuntu
+8. Snappy Ubuntu Core
 
 ### Specialization
 1. Internet of Things Sensors
