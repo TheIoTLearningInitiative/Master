@@ -11,7 +11,7 @@ The Internet of Things Learning Initiative
 ### Hardware
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/)
 2. Intel® Galileo
-3. Intel® Curie
+3. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 4. MinnowBoard MAX
 
 ### Frameworks
