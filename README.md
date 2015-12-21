@@ -36,7 +36,6 @@ The Internet of Things Learning Initiative
 5. Internet of Things Analytics
 
 ### Platforms
-
 1. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
 3. Microsoft Azure IoT Suite
 4. IBM Internet of Things
