@@ -29,7 +29,7 @@ The Internet of Things Learning Initiative
 8. [Snappy Ubuntu Core__](https://theiotlearninginitiative.gitbooks.io/iotsnappyubuntucore/content/)
 
 ### Specialization
-1. Internet of Things Sensors
+1. [Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
 2. [Internet Of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
 3. [Internet Of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
 4. Internet of Things Cloud
