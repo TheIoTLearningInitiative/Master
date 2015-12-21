@@ -20,7 +20,7 @@ The Internet of Things Learning Initiative
 ### Operating Systems
 1. Yocto Project
 2. Windows 10
-3. Google Brillo
+3. [Google Brillo__](https://theiotlearninginitiative.gitbooks.io/googlebrillo/content/)
 4. Wind River Rocket
 5. [__Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
 6. Contiki
