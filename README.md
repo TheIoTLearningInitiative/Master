@@ -18,13 +18,13 @@ The Internet of Things Learning Initiative
 1. Internet Of Things IoTivity
 
 ### Operating Systems
-1. IoT Yocto Project
-2. IoT Windows 10
-3. IoT Google Brillo
-4. IoT Wind River Rocket
-5. [__IoT Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
-6. IoT Contiki
-7. [__IoT Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
+1. Yocto Project
+2. Windows 10
+3. Google Brillo
+4. Wind River Rocket
+5. [__Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
+6. Contiki
+7. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
 7. IoT FreeRTOS
 8. Snappy Ubuntu
 
