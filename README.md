@@ -25,7 +25,7 @@ The Internet of Things Learning Initiative
 5. [__Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
 6. Contiki
 7. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
-7. IoT FreeRTOS
+7. FreeRTOS
 8. Snappy Ubuntu
 
 ### Specialization
