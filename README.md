@@ -13,6 +13,7 @@ The Internet of Things Learning Initiative
 2. Intel® Galileo
 3. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 4. MinnowBoard MAX
+5. Next Thing Co. C.H.I.P.
 
 ### Frameworks
 1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
