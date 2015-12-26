@@ -3,7 +3,8 @@ SandBox
 
 ToDo. Explain initiative
 
-- 1 Foil per Projecyt
+- 1 Foil per Project
+  - 
 - Difference with Forums
 - Structured, Avoid having knowledge everywhere
 - PoC
