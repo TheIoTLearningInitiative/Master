@@ -26,3 +26,4 @@ ToDo. Explain initiative
 ## People
 
 - http://www.kontron.com/about-kontron/company-overview/management-team/michael-vaeth
+- http://blogs.windriver.com/wind_river_blog/2014/11/securing-critical-infrastructurehow-can-technology-help.html
