@@ -8,7 +8,6 @@ ToDo. Explain initiative
   - Description
   - Photo
   - Architecture Diagram
-  - 
 - Difference with Forums
 - Structured, Avoid having knowledge everywhere
 - PoC
