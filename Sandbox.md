@@ -4,6 +4,8 @@ SandBox
 ToDo. Explain initiative
 
 - 1 Foil per Project
+  - Title
+  - Description
   - Photo
   - Architecture Diagram
   - 
