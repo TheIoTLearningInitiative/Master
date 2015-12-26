@@ -23,3 +23,6 @@ ToDo. Explain initiative
 - Mentoring
 - Development
 
+## People
+
+- http://www.kontron.com/about-kontron/company-overview/management-team/michael-vaeth
