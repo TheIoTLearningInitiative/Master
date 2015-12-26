@@ -4,6 +4,8 @@ SandBox
 ToDo. Explain initiative
 
 - 1 Foil per Project
+  - Photo
+  - Architecture Diagram
   - 
 - Difference with Forums
 - Structured, Avoid having knowledge everywhere
