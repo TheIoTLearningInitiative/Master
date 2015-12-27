@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 * [Training Sessions](TrainingSessions.md)
-* Events
+* [Events](Events.md)
 * [Equipment](Equipment.md)
 * [SandBox](Sandbox.md)
 
