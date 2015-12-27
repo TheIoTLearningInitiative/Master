@@ -17,7 +17,7 @@ ToDo. Explain initiative
 - Easy to understand
 - IoT is about a solution not a particular topic
 
-## Use Flask
+## Workshop
 
  1. IBM Bluemix
  2. [Flask + Sensors](http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS)
