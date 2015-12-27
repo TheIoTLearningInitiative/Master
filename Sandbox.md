@@ -17,6 +17,10 @@ ToDo. Explain initiative
 - Easy to understand
 - IoT is about a solution not a particular topic
 
+## Use Flask
+ 1. http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS
+
+
 ## Structure
 
 - Training
