@@ -4,6 +4,6 @@
 * [Training Sessions](TrainingSessions.md)
 * [Events](Events.md)
 * [Equipment](Equipment.md)
-* [SandBox](Sandbox.md)
 * [Organizations](Organizations.md)
+* [SandBox](Sandbox.md)
 
