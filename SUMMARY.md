@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* [Sessions](Sessions.md)
+* [Training Sessions](TrainingSessions.md)
 * Events
 * [Equipment](Equipment.md)
 * [SandBox](Sandbox.md)
