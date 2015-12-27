@@ -5,4 +5,5 @@
 * [Events](Events.md)
 * [Equipment](Equipment.md)
 * [SandBox](Sandbox.md)
+* Organizations
 
