@@ -20,7 +20,8 @@ ToDo. Explain initiative
 ## Use Flask
 
  1. IBM Bluemix
- 1. http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS
+ 2. Flask + Sensors
+ 3. http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS
 
 
 ## Structure
