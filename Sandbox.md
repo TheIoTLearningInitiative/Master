@@ -19,9 +19,11 @@ ToDo. Explain initiative
 
 ## Workshop
 
- 1. IBM Bluemix
- 2. AMQP
- 3. [Flask + Sensors](http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS)
+ - IBM Bluemix
+ - Protocols
+   - MQTT
+   - AMQP
+ - [Flask + Sensors](http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS)
 
 
 ## Structure
