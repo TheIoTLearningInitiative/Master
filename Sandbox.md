@@ -20,7 +20,8 @@ ToDo. Explain initiative
 ## Workshop
 
  1. IBM Bluemix
- 2. [Flask + Sensors](http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS)
+ 2. AMQP
+ 3. [Flask + Sensors](http://www.instructables.com/id/Intel-Edison-Sensor-Dashboard-Using-FreeboardPytho/?ALLSTEPS)
 
 
 ## Structure
