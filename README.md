@@ -42,4 +42,4 @@ The Internet of Things Learning Initiative
 3. Microsoft Azure IoT Suite
 4. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
 5. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
-6. [__ThingWorx]()
+6. [__ThingWorx__]()
