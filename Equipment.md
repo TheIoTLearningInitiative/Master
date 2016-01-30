@@ -1,7 +1,7 @@
 Equipment
 ==
 
-## "Centro de Software" Laboratory
+## Laboratory I
 
 - [03] [Intel Edison](http://www.seeedstudio.com/depot/Intel-Edison-Breakout-Kit-p-2151.html)
 - [03] [Intel Galileo](http://www.seeedstudio.com/depot/Intel-Galileo-Gen-2-p-2014.html?cPath=6_7)
@@ -10,7 +10,7 @@ Equipment
 - [05] Laptops
 - [02] Desktops
 
-## MIND Laboratory
+## Laboratory II
 
 | Quantity | Single Price USD | Total Price USD | Description + Link |
 | -------- | ---------------- | --------------- | ------------------ |
