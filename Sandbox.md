@@ -3,6 +3,7 @@ SandBox
 
 - Course Description
 - Course Format
+- Key Benefits
 - 
 
 
