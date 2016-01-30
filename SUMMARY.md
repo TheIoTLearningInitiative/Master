@@ -6,4 +6,5 @@
 * [Equipment](Equipment.md)
 * [Organizations](Organizations.md)
 * [SandBox](Sandbox.md)
+* Profiles
 
