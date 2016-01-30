@@ -15,9 +15,6 @@ The Internet of Things Learning Initiative
 4. MinnowBoard MAX
 5. Next Thing Co. C.H.I.P.
 
-### Frameworks
-1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
-
 ### Operating Systems
 1. Yocto Project
 2. Windows 10
@@ -29,6 +26,9 @@ The Internet of Things Learning Initiative
 7. FreeRTOS
 8. [__Snappy Ubuntu Core__](https://theiotlearninginitiative.gitbooks.io/iotsnappyubuntucore/content/)
 9. OpenWRT
+
+### Frameworks
+1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
 
 ### Specialization
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
