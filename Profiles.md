@@ -8,7 +8,7 @@ You must possess either a Bachelors or Master's Degree in Computer Science, Elec
 
 - Computer Architecture
 - C/C++
-- Scripting languages such as Shell/Python/Node.js
+- Scripting languages such as Shell, Python, Node.js
 - Working in a Linux environment
 - Solid understanding of Algorithms, Data Structures and Object Oriented Programming
 - Excellent problem analysis and problem solving skills
