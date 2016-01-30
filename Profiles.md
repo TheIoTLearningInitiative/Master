@@ -2,4 +2,4 @@
 
 Internet of Things, Big Data Analytics, 
 
-Fantastic Tech Stack, Solve Real-World Problems, 
+Fantastic Tech Stack, Solve Real-World Problems, Largest Companies, 
