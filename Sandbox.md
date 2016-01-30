@@ -1,6 +1,8 @@
 SandBox
 ==
 
+Course Description
+
 ToDo. Explain initiative
 
 - 1 Foil per Project
