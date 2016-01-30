@@ -4,7 +4,7 @@ SandBox
 - Course Description
 - Course Format
 - Key Benefits
-- Enterpirse Data
+- Enterprise Data
 
 
 
