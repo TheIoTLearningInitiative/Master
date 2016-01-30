@@ -1,7 +1,9 @@
 SandBox
 ==
 
-Course Description
+- Course Description
+
+
 
 ToDo. Explain initiative
 
