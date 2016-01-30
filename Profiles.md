@@ -20,6 +20,8 @@ Organizational Responsibilities
 - Highly effective collaborating in multiple initiatives with a diverse team environment and with others in worlwide organizations with flexibility to deal with ambiguous situations
 - Ability to drive technical discussion with key stakeholders
 
+## Preferred Qualifications
+
 Candidate must have 3+ months of work or educational experience with the following:
 
 - Designing and building Internet of Things projects (IoT)
