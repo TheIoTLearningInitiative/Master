@@ -7,6 +7,7 @@ SandBox
 - Enterprise Data
 
 https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+IOTx+2016_T1/about
+http://www.iot-spartans.com/wp-content/uploads/2015/12/dossier_iot_spartans.pdf
 
 
 ToDo. Explain initiative
