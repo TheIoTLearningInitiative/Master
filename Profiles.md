@@ -1,6 +1,6 @@
 # Profile
 
-Basic Qualifications
+## Basic Qualifications
 
 Experience could be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
 
