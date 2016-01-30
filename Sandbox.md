@@ -5,7 +5,7 @@ SandBox
 - Course Format
 - Key Benefits
 - Enterprise Data
-- 
+
 https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+IOTx+2016_T1/about
 
 
