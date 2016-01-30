@@ -1,13 +1,8 @@
 # Profiles
 
-Hadoop
-Internet of Things, Big Data Analytics, Streaming Analytics, Machine learning, Internet of Things Area (M2M, Smart Services), 
-
-Fantastic Tech Stack, Solve Real-World Problems, Largest Companies, 
-
 Desired Skills and Experience
 
-Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences. 
+Experience could be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
 
 You must possess either a Bachelors or Master's Degree in Computer Science, Electrical, Computer Engineering or a related field with experience on:
 
