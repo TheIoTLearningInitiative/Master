@@ -13,7 +13,6 @@ Experience could be obtained through a combination of your school work/classes/r
 - http://www.cdait.gatech.edu/
 - http://verkstad.cc/ctc/
 
-
 ToDo. Explain initiative
 
 - 1 Foil per Project
