@@ -12,6 +12,7 @@ Experience could be obtained through a combination of your school work/classes/r
 - http://www.iot-spartans.com/wp-content/uploads/2015/12/dossier_iot_spartans.pdf
 - http://www.cdait.gatech.edu/
 - http://verkstad.cc/ctc/
+- http://thinkbigpartners.com/teaching-iot-to-the-next-generation-of-leaders-innovators-doers-and-dreamers/
 
 ToDo. Explain initiative
 
