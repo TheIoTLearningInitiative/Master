@@ -15,7 +15,6 @@ Experience could be obtained through a combination of your school work/classes/r
 - http://verkstad.cc/ctc/
 - http://thinkbigpartners.com/teaching-iot-to-the-next-generation-of-leaders-innovators-doers-and-dreamers/
 - http://thinkbigpartners.com/sensed-iot-pilot/
-- 
 
 ToDo. Explain initiative
 
