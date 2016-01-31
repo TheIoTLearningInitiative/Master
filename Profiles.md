@@ -8,6 +8,7 @@ You must possess either a Bachelors or Master's Degree in Computer Science, Elec
 - C/C++
 - Scripting languages such as Shell, Python, Node.js
 - Working in a Linux environment
+- Familiar with Open Source communities
 - Solid understanding of Algorithms, Data Structures and Object Oriented Programming
 - Excellent problem analysis and problem solving skills
 - Excellent written, verbal and presentation English skills
