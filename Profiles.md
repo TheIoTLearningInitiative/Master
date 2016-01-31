@@ -20,7 +20,7 @@ Organizational Responsibilities
 
 Candidate must have 3+ months of work or educational experience with the following:
 
-- Designing and building Internet of Things projects (IoT)
+- Project experience hardware hacking (Arduino, Raspberry Pi, Intel Edison, Intel Galileo, etc)
 - Networking and Cloud Service Experience
 - REST APIs and familiarity with Pub/Sub Architectures
-- Project experience hardware hacking (Arduino, Raspberry Pi, Intel Edison, Intel Galileo, etc)
+- Designing and building Internet of Things projects (IoT)
