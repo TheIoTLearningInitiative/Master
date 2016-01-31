@@ -8,6 +8,7 @@ Experience could be obtained through a combination of your school work/classes/r
 - Key Benefits
 - Enterprise Data
 
+- http://www.thingworx.com/~/media/Files/PDFs/Academics/IoT-Learning-Paths.ashx?la=en
 - https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+IOTx+2016_T1/about
 - http://www.iot-spartans.com/wp-content/uploads/2015/12/dossier_iot_spartans.pdf
 - http://www.cdait.gatech.edu/
