@@ -2,8 +2,6 @@
 
 ## Basic Qualifications
 
-Experience could be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
-
 You must possess either a Bachelors or Master's Degree in Computer Science, Electrical, Computer Engineering or a related field with experience on:
 
 - Computer Architecture
