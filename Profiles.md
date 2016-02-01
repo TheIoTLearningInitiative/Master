@@ -14,15 +14,15 @@ You must possess either a Bachelors or Master's Degree in Computer Science, Elec
 - Excellent problem analysis and problem solving skills
 - Excellent written, verbal and presentation English skills
 
-Organizational Responsibilities
-
-- Strong team player with self-motivation, self-starter and passionate about personal and others' Career Development
-- Highly effective collaborating in multiple initiatives with a diverse team environment and with others in worlwide organizations with flexibility to deal with ambiguous situations
-- Ability to drive technical discussion with key stakeholders
-
 Candidate must have 3+ months of work or educational experience with the following:
 
 - Project experience hardware hacking (Arduino, Raspberry Pi, Intel Edison, Intel Galileo, etc)
 - Networking and Cloud Service Experience
 - REST APIs and familiarity with Pub/Sub Architectures
 - Designing and building Internet of Things projects (IoT)
+
+Organizational Responsibilities
+
+- Strong team player with self-motivation, self-starter and passionate about personal and others' Career Development
+- Highly effective collaborating in multiple initiatives with a diverse team environment and with others in worlwide organizations with flexibility to deal with ambiguous situations
+- Ability to drive technical discussion with key stakeholders
