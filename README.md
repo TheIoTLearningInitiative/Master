@@ -3,7 +3,7 @@ The Internet of Things Learning Initiative
 
 > Internet of Things Learning Initiative promotes education in Science, Technology, Engineering, Mathematics and Robotics through a collaboration model with the initial focus to generate a strong talent pool of “Internet of Everything” players.
 
-## Things
+## Curricula
 
 ### Core
 1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
