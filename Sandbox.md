@@ -61,3 +61,7 @@ ToDo. Explain initiative
 - https://www.linkedin.com/in/ctowen
 - http://iotworldevent.com/internet-of-things-world-academy
 - file:///home/xe1gyq/Downloads/IoT-Academic-Program-Datasheet.pdf
+
+Key Ideas
+
+ - Real Time Data + Hardware
