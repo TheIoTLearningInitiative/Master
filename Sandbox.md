@@ -11,6 +11,7 @@ Experience could be obtained through a combination of your school work/classes/r
 - Course Format
 - Key Benefits
 - Enterprise Data
+- After successfully completing this course, you will be able to:
 
 - http://www.thingworx.com/~/media/Files/PDFs/Academics/IoT-Learning-Paths.ashx?la=en
 - https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+IOTx+2016_T1/about
