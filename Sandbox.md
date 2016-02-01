@@ -65,3 +65,4 @@ ToDo. Explain initiative
 Key Ideas
 
  - Real Time Data + Hardware
+ - Application Creation Platform
