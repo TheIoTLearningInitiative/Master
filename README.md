@@ -14,6 +14,7 @@ The Internet of Things Learning Initiative
 3. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 4. MinnowBoard MAX
 5. Next Thing Co. C.H.I.P.
+6. ESP8266
 
 ### Operating Systems
 1. Yocto Project
