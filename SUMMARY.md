@@ -5,6 +5,6 @@
 * [Events](Events.md)
 * [Equipment](Equipment.md)
 * [Organizations](Organizations.md)
-* [Profiles](Profiles.md)
+* [Required Profile](RequiredProfiles.md)
 * [SandBox](Sandbox.md)
 
