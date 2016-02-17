@@ -15,6 +15,7 @@ The Internet of Things Learning Initiative
 4. MinnowBoard MAX
 5. Next Thing Co. C.H.I.P.
 6. ESP8266/ESP-12E
+7. PINE A64
 
 ### Operating Systems
 1. Yocto Project
