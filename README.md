@@ -36,8 +36,8 @@ The Internet of Things Learning Initiative
 
 ### Specialization
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
-2. [__Internet Of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
-3. [__Internet Of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
+2. [__Internet of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
+3. [__Internet of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
 4. [__Internet of Things Cloud__](https://theiotlearninginitiative.gitbooks.io/internetofthingscloud/content/)
 5. [__Internet of Things Analytics__](https://theiotlearninginitiative.gitbooks.io/internetofthingsanalytics/content/)
 5. [__Internet of Things Security__]()
