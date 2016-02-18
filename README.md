@@ -48,4 +48,5 @@ The Internet of Things Learning Initiative
 3. Microsoft Azure
 4. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
 5. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
-6. [__ThingWorx__]()
+6. Google
+7. [__ThingWorx__]()
