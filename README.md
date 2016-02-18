@@ -33,6 +33,7 @@ The Internet of Things Learning Initiative
 ### Frameworks
 1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
 2. [__Kaa Project__](http://www.kaaproject.org/)
+3. OpenHAB
 
 ### Specialization
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
