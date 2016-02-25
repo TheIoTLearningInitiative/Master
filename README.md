@@ -35,6 +35,7 @@ The Internet of Things Learning Initiative
 2. [__Kaa Project__](http://www.kaaproject.org/)
 3. OpenHAB
 4. [ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)
+5. [Soletta Project](https://solettaproject.org/)
 
 ### Specialization
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
