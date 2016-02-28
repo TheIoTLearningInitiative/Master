@@ -10,13 +10,13 @@ The Internet of Things Learning Initiative
 
 ### Hardware
 1. Embedded Linux
-1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/)
-2. Intel® Galileo
-3. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
-4. MinnowBoard MAX
-5. Next Thing Co. C.H.I.P.
-6. ESP8266/ESP-12E
-7. PINE A64
+2. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/)
+3. Intel® Galileo
+4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
+5. MinnowBoard MAX
+6. Next Thing Co. C.H.I.P.
+7. ESP8266/ESP-12E
+8. PINE A64
 
 ### Operating Systems
 1. Yocto Project
