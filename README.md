@@ -9,7 +9,7 @@ The Internet of Things Learning Initiative
 1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ### Hardware
-1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embeddedlinux/)
+1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
 2. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/)
 3. Intel® Galileo
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
