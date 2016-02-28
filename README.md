@@ -14,7 +14,7 @@ The Internet of Things Learning Initiative
 3. Intel® Galileo
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 5. MinnowBoard MAX
-6. Up Bpard
+6. Up Board
 7. Next Thing Co. C.H.I.P.
 8. ESP8266/ESP-12E
 9. PINE A64
