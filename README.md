@@ -51,9 +51,9 @@ The Internet of Things Learning Initiative
 
 ### Platforms
 1. Intel
-2. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
-3. Microsoft Azure
-4. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
-5. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
+2. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
+3. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
+4. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
+5. Microsoft Azure
 6. Google
 7. [__ThingWorx__]()
