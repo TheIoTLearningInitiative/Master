@@ -25,14 +25,15 @@ The Internet of Things Learning Initiative
 3. [__Google Brillo__](https://theiotlearninginitiative.gitbooks.io/googlebrillo/content/)
 4. [__Wind River Rocket__](https://theiotlearninginitiative.gitbooks.io/iotwindriverrocket/content/)
 5. [__Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
-6. Zephyr
-7. Contiki
-7. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
-8. FreeRTOS
-9. [__Snappy Ubuntu Core__](https://theiotlearninginitiative.gitbooks.io/iotsnappyubuntucore/content/)
-10. OpenWRT
-11. Clear Linux
-12. Ubilinux
+6. Zephyr Project
+7. Ostro Project
+8. Contiki
+9. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
+10. FreeRTOS
+11. [__Snappy Ubuntu Core__](https://theiotlearninginitiative.gitbooks.io/iotsnappyubuntucore/content/)
+12. OpenWRT
+13. Clear Linux
+14. Ubilinux
 
 ### Frameworks
 1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
