@@ -15,7 +15,7 @@ The Internet of Things Learning Initiative
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 5. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
 6. Next Thing Co. C.H.I.P.
-7. 6. Up Board
+7. Up Board
 8. ESP8266/ESP-12E
 9. PINE A64
 
