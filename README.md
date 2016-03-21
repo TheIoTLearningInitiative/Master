@@ -17,7 +17,7 @@ The Internet of Things Learning Initiative
 6. Next Thing Co. C.H.I.P.
 7. Up Board
 8. LattePanda
-8. ESP8266/ESP-12E
+8. [ESP8266/ESP-12E__](https://theiotlearninginitiative.gitbooks.io/esp8266/content/)
 9. PINE A64
 
 ### Operating Systems
