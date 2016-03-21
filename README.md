@@ -10,7 +10,7 @@ The Internet of Things Learning Initiative
 
 ### Hardware
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-2. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/)
+2. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
 3. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 5. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
