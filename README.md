@@ -58,4 +58,4 @@ The Internet of Things Learning Initiative
 4. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
 5. __Microsoft Azure__
 6. __Google__
-7. [__ThingWorx__]()
+7. __ThingWorx__
