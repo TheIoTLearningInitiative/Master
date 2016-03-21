@@ -15,33 +15,33 @@ The Internet of Things Learning Initiative
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 5. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
 6. [__ESP8266/ESP-12E__](https://theiotlearninginitiative.gitbooks.io/esp8266/content/) 
-7. Next Thing Co. C.H.I.P.
-8. Up Board
-9. LattePanda
-10. PINE A64
+7. __Next Thing Co. C.H.I.P.__
+8. __Up Board__
+9. __LattePanda__
+10. __PINE A64__
 
 ### Operating Systems
-1. Yocto Project
-2. Windows 10
+1. __Yocto Project__
+2. __Windows 10__
 3. [__Google Brillo__](https://theiotlearninginitiative.gitbooks.io/googlebrillo/content/)
 4. [__Wind River Rocket__](https://theiotlearninginitiative.gitbooks.io/iotwindriverrocket/content/)
 5. [__Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
 6. [__Zephyr__](https://theiotlearninginitiative.gitbooks.io/zephyr/content/)
-7. Ostro
-8. Contiki
+7. __Ostro__
+8. __Contiki__
 9. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
-10. FreeRTOS
+10. __FreeRTOS__
 11. [__Snappy Ubuntu Core__](https://theiotlearninginitiative.gitbooks.io/iotsnappyubuntucore/content/)
-12. OpenWRT
-13. Clear Linux
-14. Ubilinux
+12. __OpenWRT__
+13. __Clear Linux__
+14. __Ubilinux__
 
 ### Frameworks
 1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
 2. [__Kaa Project__](http://www.kaaproject.org/)
-3. OpenHAB
-4. [ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)
-5. Soletta Project
+3. __OpenHAB__
+4. __[ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)__
+5. __Soletta Project__
 
 ### Specialization
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
@@ -52,10 +52,10 @@ The Internet of Things Learning Initiative
 5. [__Internet of Things Security__]()
 
 ### Platforms
-1. Intel
+1. __Intel__
 2. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
 3. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
 4. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
-5. Microsoft Azure
-6. Google
+5. __Microsoft Azure__
+6. __Google__
 7. [__ThingWorx__]()
