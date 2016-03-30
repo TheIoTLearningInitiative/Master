@@ -30,5 +30,4 @@ Sessions
 ### Intel® Edison
 
 - __[01]__ March XXth, 2016, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
-  - Abraham Arce
-  - 12 Attendees
+  - 80 Attendees
