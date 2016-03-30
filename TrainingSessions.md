@@ -31,3 +31,8 @@ Sessions
 
 - __[01]__ March XXth, 2016, 2 Hours @ Taller Vertical Preparation, ITESM Guadalajara
   - 80 Attendees
+
+### IBM Bluemix
+
+- __[01]__ March XXth, 2016, 3 Hours @ Taller Vertical Preparation, ITESM Guadalajara
+  - 80 Attendees
