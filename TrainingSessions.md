@@ -28,7 +28,7 @@ Sessions
   - 80 Attendees
 
 - __[01]__ March 29th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
-  - 80 Attendees
+  - 30 Attendees
 
 ### Intel® Edison
 
