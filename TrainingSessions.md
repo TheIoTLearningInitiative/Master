@@ -27,7 +27,12 @@ Sessions
 - __[01]__ March XXth, 2016, 4 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
 
-- __[01]__ March 29th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
+- __[02]__ March 29th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
+  - 30 Attendees
+
+### Embedded Linux
+
+- __[01]__ March 30th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
   - 30 Attendees
 
 ### Intel® Edison
