@@ -29,5 +29,5 @@ Sessions
 
 ### Intel® Edison
 
-- __[01]__ March XXth, 2016, 2 Hours @ [Epicentro Festival Guadalajara](http://www.epicentrofestival.com/)
+- __[01]__ March XXth, 2016, 2 Hours @ Taller Vertical, ITESM Guadalajara
   - 80 Attendees
