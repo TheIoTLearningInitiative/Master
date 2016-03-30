@@ -10,7 +10,9 @@ Sessions
   - 20 Attendees
 - __[03]__ December 10th, 2015 @ Octavo Coloquio de Innovación, Tecnología y Competitividad del Postgrado en Ciencias Computacionales de la UAG
   - 12 Attendees
-
+- __[04]__ December 10th, 2015 @ Octavo Coloquio de Innovación, Tecnología y Competitividad del Postgrado en Ciencias Computacionales de la UAG
+  - 12 Attendees
+  - 
 ### Intel® Boards
 - __[01]__ November 12th, 2015, 1 Hour @ Intel
   - Lynette Layne, Marco Salgado
