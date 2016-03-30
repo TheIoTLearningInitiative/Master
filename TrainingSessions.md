@@ -27,7 +27,7 @@ Sessions
 - __[01]__ March XXth, 2016, 4 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
 
-- __[01]__ March 29th, 2016, 4 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
+- __[01]__ March 29th, 2016, 8 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
 
 ### Intel® Edison
