@@ -24,15 +24,15 @@ Sessions
 
 ### Internet of Things 101
 
-- __[01]__ March XXth, 2016, 4 Hours @ Taller Vertical Preparation, ITESM Guadalajara
+- __[01]__ March XXth, 2016, 4 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
 
 ### Intel® Edison
 
-- __[01]__ March XXth, 2016, 2 Hours @ Taller Vertical Preparation, ITESM Guadalajara
+- __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
 
 ### IBM Bluemix
 
-- __[01]__ March XXth, 2016, 3 Hours @ Taller Vertical Preparation, ITESM Guadalajara
+- __[01]__ March XXth, 2016, 3 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
