@@ -48,4 +48,4 @@ Sessions
 ### Intel® Galileo
 
 - __[01]__ April 01st, 2016, 2 Hours @ Centro de cultura Digital, Arduino Day, Hacedores
-  - 80 Attendees
+  - xx Attendees
