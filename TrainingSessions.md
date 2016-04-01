@@ -44,3 +44,8 @@ Sessions
 
 - __[01]__ March XXth, 2016, 3 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
+
+### Intel® Galileo
+
+- __[01]__ April 01st, 2016, 2 Hours @ Centro de cultura Digital, Arduino Day, Hacedores
+  - 80 Attendees
