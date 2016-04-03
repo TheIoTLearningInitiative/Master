@@ -17,6 +17,7 @@ The Internet of Things Learning Initiative
 6. [__ESP8266/ESP-12E__](https://theiotlearninginitiative.gitbooks.io/esp8266/content/) 
 7. __Raspberry Pi__
 8. __Next Thing Co. C.H.I.P.__
+9. __Arduino__
 9. __Up Board__
 10. __LattePanda__
 11. __PINE A64__
