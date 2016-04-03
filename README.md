@@ -18,9 +18,10 @@ The Internet of Things Learning Initiative
 7. __Raspberry Pi__
 8. __Next Thing Co. C.H.I.P.__
 9. __Arduino__
-9. __Up Board__
-10. __LattePanda__
-11. __PINE A64__
+10. __Photon__
+11. __Up Board__
+12. __LattePanda__
+13. __PINE A64__
 
 ### Operating Systems
 1. __Yocto Project__
