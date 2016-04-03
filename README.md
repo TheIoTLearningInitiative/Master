@@ -15,7 +15,7 @@ The Internet of Things Learning Initiative
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 5. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
 6. [__ESP8266/ESP-12E__](https://theiotlearninginitiative.gitbooks.io/esp8266/content/) 
-7. __Raspberry Pi__
+7. [__Raspberry Pi__](https://theiotlearninginitiative.gitbooks.io/raspberrypi/content/)
 8. __Next Thing Co. C.H.I.P.__
 9. [__Arduino__](https://theiotlearninginitiative.gitbooks.io/arduino/content/)
 10. __Photon__
