@@ -15,10 +15,11 @@ The Internet of Things Learning Initiative
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 5. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
 6. [__ESP8266/ESP-12E__](https://theiotlearninginitiative.gitbooks.io/esp8266/content/) 
-7. __Next Thing Co. C.H.I.P.__
-8. __Up Board__
-9. __LattePanda__
-10. __PINE A64__
+7. __Raspberry Pi__
+8. __Next Thing Co. C.H.I.P.__
+9. __Up Board__
+10. __LattePanda__
+11. __PINE A64__
 
 ### Operating Systems
 1. __Yocto Project__
