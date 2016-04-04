@@ -8,5 +8,5 @@
 * [Required Profile](RequiredProfile.md)
 * [Stores](Stores.md)
 * [SandBox](Sandbox.md)
-* [Organizer's Manual](documentation/OrganizersManual.md)
+* [Organizer's Manual](OrganizersManual.md)
 
