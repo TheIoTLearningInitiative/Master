@@ -8,12 +8,14 @@ Organizer's Manual
 
 What it takes?
 
-- [Trello Homepage](https://trello.com/)
+[Trello Homepage](https://trello.com/)
 
-1 month before
-2 weeks
-1 week
-After the Workshop
+- 1 month before
+- 2 weeks
+- 1 week
+- After the Workshop
+
+
 
 
 
