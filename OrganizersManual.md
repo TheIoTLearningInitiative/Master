@@ -8,6 +8,9 @@ Organizer's Manual
 
 What it takes?
 
+- [Trello Homepage](https://trello.com/)
+
+
 
 
 
