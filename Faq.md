@@ -14,7 +14,7 @@ Python
 
 ### Why all materials are online?
 
-### 
+### What are the minimum requirements?
 
 
 
