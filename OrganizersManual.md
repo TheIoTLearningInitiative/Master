@@ -15,6 +15,9 @@ What it takes?
 - 1 week
 - After the Workshop
 
+Logistics
+
+
 
 
 
