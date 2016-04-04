@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* FAQ
+* [FAQ](Faq.md)
 * [Training Sessions](TrainingSessions.md)
 * [Equipment](Equipment.md)
 * [Organizations](Organizations.md)
