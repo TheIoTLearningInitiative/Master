@@ -6,7 +6,7 @@ FAQ
 - What programming language is used?
 - Why Python is the default language?
 - Why all materials are online?
-- What are the minimoum requirements?
+- What are the minimum requirements?
 
 
 
