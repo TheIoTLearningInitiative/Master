@@ -10,7 +10,7 @@ FAQ
 
 Python
 
-### Why Python is used_
+### Why Python is used?
 
 
 
