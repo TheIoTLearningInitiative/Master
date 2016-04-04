@@ -4,6 +4,7 @@ Organizer's Manual
 - What is The IoT Learning Initiative?
 - What is an IoT Learning Initiative Workshop?
 - Philosophy
+  - Let the people go at their own pace
 - Using The IoT Learning Initiative name
 
 What it takes?
@@ -17,7 +18,15 @@ What it takes?
 
 Logistics
 
-
+- Venue
+- Power Cords
+- Internet
+- Decorations?
+- Goodies
+- Stickers
+- Marketing
+- Photos & Videos
+- 
 
 
 
