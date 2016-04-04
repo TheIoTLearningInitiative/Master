@@ -4,7 +4,7 @@ FAQ
 
 ### What is The IoT Learning Initiative?
 
-### What does the program include?
+### What topics the program include?
 
 
 
