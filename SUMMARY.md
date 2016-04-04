@@ -6,6 +6,6 @@
 * [Equipment](Equipment.md)
 * [Organizations](Organizations.md)
 * [Required Profile](RequiredProfile.md)
-* [SandBox](Sandbox.md)
 * [Stores](documentation/Stores.md)
+* [SandBox](Sandbox.md)
 
