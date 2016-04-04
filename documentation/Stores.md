@@ -1,7 +1,7 @@
 Stores
 ==
 
-# Mexico
+## Mexico
 
 - [1](http://blastbot.io/)
 - [2](http://www.techmind.mx/)
