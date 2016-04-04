@@ -7,6 +7,6 @@
 * [Organizations](Organizations.md)
 * [Required Profile](RequiredProfile.md)
 * [Stores](Stores.md)
-* [SandBox](Sandbox.md)
 * [Organizer's Manual](OrganizersManual.md)
+* [SandBox](Sandbox.md)
 
