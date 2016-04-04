@@ -8,8 +8,6 @@ FAQ
 
 ### What programming language is used?
 
-Python
-
 ### Why Python is the default language?
 
 ### Why all materials are online?
