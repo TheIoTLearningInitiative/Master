@@ -6,5 +6,7 @@ FAQ
 
 ### What topics the program include?
 
+### What programming language is used?
+
 
 
