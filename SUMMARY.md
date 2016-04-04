@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [FAQ](Faq.md)
 * [Sessions](TrainingSessions.md)
-* [Training Equipment](Equipment.md)
+* [Equipment](Equipment.md)
 * [Organizations](Organizations.md)
 * [Required Profile](RequiredProfile.md)
 * [SandBox](Sandbox.md)
