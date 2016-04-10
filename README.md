@@ -14,7 +14,7 @@ The Internet of Things Learning Initiative
 3. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
 4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
 5. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
-6. [__ESP8266/ESP-12E__](https://theiotlearninginitiative.gitbooks.io/esp8266/content/) 
+6. [__NodeMCU__](https://theiotlearninginitiative.gitbooks.io/nodemcu/content/) 
 7. [__Raspberry Pi__](https://theiotlearninginitiative.gitbooks.io/raspberrypi/content/)
 8. [__Next Thing Co. C.H.I.P.__](https://theiotlearninginitiative.gitbooks.io/nextthingcochip/content/)
 9. [__Arduino__](https://theiotlearninginitiative.gitbooks.io/arduino/content/)
