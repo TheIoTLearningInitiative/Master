@@ -19,6 +19,7 @@ The Internet of Things Learning Initiative
 8. [__Next Thing Co. C.H.I.P.__](https://theiotlearninginitiative.gitbooks.io/nextthingcochip/content/)
 9. [__Arduino__](https://theiotlearninginitiative.gitbooks.io/arduino/content/)
 10. [__Photon__](https://theiotlearninginitiative.gitbooks.io/photon/content/)
+11. [RedBear Duo](https://theiotlearninginitiative.gitbooks.io/redbearduo/content/)
 11. __Up Board__
 12. __LattePanda__
 13. __PINE A64__
