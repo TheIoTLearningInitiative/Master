@@ -46,6 +46,7 @@ The Internet of Things Learning Initiative
 3. __OpenHAB__
 4. __[ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)__
 5. __Soletta Project__
+6. [__Kura__](http://www.eclipse.org/kura/)
 
 ### Specialization
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
