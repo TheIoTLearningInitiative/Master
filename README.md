@@ -9,11 +9,12 @@ The Internet of Things Learning Initiative
 1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ### Software
-1. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
-2. Verilog
-3. R
-4. Go
-5. 
+1. 
+2. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
+3. Verilog
+4. R
+5. Go
+6. Java 
 
 ### Hardware
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
