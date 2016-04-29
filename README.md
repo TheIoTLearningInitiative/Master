@@ -9,7 +9,7 @@ The Internet of Things Learning Initiative
 1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ### Software
-1. [__Pythonb__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
+1. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/)
 
 ### Hardware
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
