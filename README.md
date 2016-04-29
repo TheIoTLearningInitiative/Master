@@ -10,7 +10,7 @@ The Internet of Things Learning Initiative
 
 ### Software
 1. 
-2. 
+2. C
 3. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
 4. Verilog
 5. R
