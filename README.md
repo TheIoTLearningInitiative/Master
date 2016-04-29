@@ -10,6 +10,7 @@ The Internet of Things Learning Initiative
 
 ### Software
 1. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
+2. Verilog
 
 ### Hardware
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
@@ -26,6 +27,7 @@ The Internet of Things Learning Initiative
 11. __Up Board__
 12. __LattePanda__
 13. __PINE A64__
+14. Go Board
 
 ### Operating Systems
 1. __Yocto Project__
