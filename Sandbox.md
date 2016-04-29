@@ -67,3 +67,7 @@ Key Ideas
 
  - Real Time Data + Hardware
  - Application Creation Platform
+
+## FPGA
+
+https://www.altera.com/en_US/pdfs/literature/misc/FPGAs_For_Dummies_eBook.pdf
