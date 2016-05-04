@@ -50,6 +50,7 @@ The Internet of Things Learning Initiative
 12. __OpenWRT__
 13. __Clear Linux__
 14. __Ubilinux__
+15. __MynewT__
 
 ### Frameworks
 1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
