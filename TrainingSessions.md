@@ -34,7 +34,7 @@ Sessions
   - 10 Attendees
 
 - __[04]__ March 16th, 23th, 30th 2016, 15 Hours @ Universidad Digital Internet of Things, Intel
-  - 80 Attendees
+  - 25 Attendees
 
 ### Embedded Linux
 
