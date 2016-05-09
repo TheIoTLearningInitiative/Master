@@ -33,7 +33,7 @@ Sessions
 - __[03]__ April 01st, 2016, 2 Hours @ Centro de cultura Digital, Arduino Day, Hacedores
   - xx Attendees
 
-- __[01]__ March XXth, 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
+- __[01]__ March XXth, 2016, 5 Hours @ Universidad Digital Internet of Things, Intel
   - 80 Attendees
 
 ### Embedded Linux
