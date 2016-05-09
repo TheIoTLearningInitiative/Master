@@ -30,8 +30,11 @@ Sessions
 - __[02]__ March 29th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
   - 30 Attendees
 
-- __[01]__ April 01st, 2016, 2 Hours @ Centro de cultura Digital, Arduino Day, Hacedores
+- __[03]__ April 01st, 2016, 2 Hours @ Centro de cultura Digital, Arduino Day, Hacedores
   - xx Attendees
+
+- __[01]__ March XXth, 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
+  - 80 Attendees
 
 ### Embedded Linux
 
