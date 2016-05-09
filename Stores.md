@@ -3,6 +3,6 @@ Stores
 
 ## Mexico
 
-- [1](http://blastbot.io/)
-- [2](http://www.techmind.mx/)
-- [3](https://hetpro-store.com)
+- [Blasbot IO](http://blastbot.io/)
+- [TechMind MX](http://www.techmind.mx/)
+- [HetPro](https://hetpro-store.com)
