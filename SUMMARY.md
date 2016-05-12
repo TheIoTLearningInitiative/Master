@@ -9,4 +9,5 @@
 * [Stores](Stores.md)
 * [Organizer's Manual](OrganizersManual.md)
 * [SandBox](Sandbox.md)
+* Playground
 
