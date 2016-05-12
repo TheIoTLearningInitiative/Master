@@ -8,6 +8,6 @@
 * [Required Profile](RequiredProfile.md)
 * [Stores](Stores.md)
 * [Organizer's Manual](OrganizersManual.md)
-* [SandBox](Sandbox.md)
 * Playground
+* [SandBox](Sandbox.md)
 
