@@ -1,3 +1,3 @@
 # Playground
 
-Strategy: Use Githuh and share
+Strategy: Use your own githuh and share
