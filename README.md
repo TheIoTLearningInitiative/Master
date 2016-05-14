@@ -17,6 +17,7 @@ The Internet of Things Learning Initiative
 6. R
 7. Go
 8. Java 
+9. MIT App Inventor
 
 ### Hardware
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
