@@ -44,7 +44,7 @@ Sessions
 - __[02]__ May 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
-- __[03]__ May 15th 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
+- __[03]__ May 15th 2016, 5 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
 ### Intel® Edison
