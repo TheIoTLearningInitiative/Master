@@ -8,6 +8,10 @@ The Internet of Things Learning Initiative
 ### Core
 1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
+### Linux
+1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
+2. __Linux Kernel__
+
 ### Software
 1. Integrated Development Environments
 2. C
@@ -18,10 +22,6 @@ The Internet of Things Learning Initiative
 7. Go
 8. Java 
 9. MIT App Inventor
-
-### Linux
-1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-2. __Linux Kernel__
 
 ### Hardware
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
