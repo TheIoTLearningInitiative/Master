@@ -44,6 +44,9 @@ Sessions
 - __[04]__ May 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
+- __[15]__ May 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
+  - 25 Attendees
+
 ### Intel® Edison
 
 - __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
