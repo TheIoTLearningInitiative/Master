@@ -10,4 +10,5 @@
 * [Organizer's Manual](OrganizersManual.md)
 * [Playground](Playground.md)
 * [SandBox](Sandbox.md)
+* Classroom
 
