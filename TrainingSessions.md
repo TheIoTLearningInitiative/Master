@@ -41,10 +41,10 @@ Sessions
 - __[01]__ March 30th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
   - 30 Attendees
 
-- __[04]__ May 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
+- __[02]__ May 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
-- __[15]__ May 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
+- __[03]__ May 15th 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
 ### Intel® Edison
