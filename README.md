@@ -20,8 +20,9 @@ The Internet of Things Learning Initiative
 5. Verilog
 6. R
 7. Go
-8. Java 
-9. MIT App Inventor
+8. Java
+9. Shell Scripting
+10. MIT App Inventor
 
 ### Hardware
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
