@@ -20,13 +20,13 @@ The Internet of Things Learning Initiative
 9. MIT App Inventor
 
 ### Linux
+1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
 
 ### Hardware
-1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-2. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
-3. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
-4. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
-5. __Intel® Quark D2000__
+1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
+2. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
+3. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
+4. __Intel® Quark D2000__
 5. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
 6. [__NodeMCU__](https://theiotlearninginitiative.gitbooks.io/nodemcu/content/) 
 7. [__Raspberry Pi__](https://theiotlearninginitiative.gitbooks.io/raspberrypi/content/)
