@@ -25,8 +25,9 @@ The Internet of Things Learning Initiative
 10. Rust
 11. Parasail
 12. B#
-13. Shell Scripting
-14. MIT App Inventor
+13. Forth
+14. Shell Scripting
+15. MIT App Inventor
 
 ### Hardware
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
