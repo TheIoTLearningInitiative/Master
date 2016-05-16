@@ -17,12 +17,13 @@ The Internet of Things Learning Initiative
 2. C
 3. C++
 4. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
-5. Verilog
-6. R
-7. Go
-8. Java
-9. Shell Scripting
-10. MIT App Inventor
+5. JavaScript
+6. Verilog
+7. R
+8. Go
+9. Java
+10. Shell Scripting
+11. MIT App Inventor
 
 ### Hardware
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
