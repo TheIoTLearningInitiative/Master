@@ -10,7 +10,7 @@ The Internet of Things Learning Initiative
 
 ### Linux
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-2. __Linux Kernel__
+2. __[Linux Kernel](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)__
 
 ### Software
 1. Integrated Development Environments
