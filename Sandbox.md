@@ -72,6 +72,8 @@ Key Ideas
 
 https://www.altera.com/en_US/pdfs/literature/misc/FPGAs_For_Dummies_eBook.pdf
 
+## Algoritmos
+
 - Estructura de Datos
 - Logica
   -  
