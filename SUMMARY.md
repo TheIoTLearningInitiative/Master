@@ -9,6 +9,6 @@
 * [Stores](Stores.md)
 * [Organizer's Manual](OrganizersManual.md)
 * [Playground](Playground.md)
-* [SandBox](Sandbox.md)
 * [Classroom](Classroom.md)
+* [SandBox](Sandbox.md)
 
