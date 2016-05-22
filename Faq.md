@@ -24,3 +24,4 @@ https://www.coursera.org/specializations/emerging-technologies
 https://www.coursera.org/course/comparch
 https://www.coursera.org/specializations/python
 https://www.coursera.org/specializations/cyber-security
+https://www.coursera.org/specializations/3d-printing
