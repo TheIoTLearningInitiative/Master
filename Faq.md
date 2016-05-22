@@ -6,12 +6,12 @@ FAQ
 - Why Python is the default training language?
 - What are the minimum lab requirements?
 
-Documentation
-Labs
-Project
-Challenge
+- Documentation
+- Labs
+- Project
+- Challenge
 
-Programming Assignments
-Demonstrations and Walk Through
+- Programming Assignments
+- Demonstrations and Walk Through
 
 
