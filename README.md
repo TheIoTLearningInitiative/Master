@@ -1,5 +1,5 @@
-The Internet of Things Learning Initiative
-==
+# The Internet of Things Learning Initiative
+
 
 > Internet of Things Learning Initiative promotes education in Science, Technology, Engineering, and Mathematics through a collaboration model with the initial focus to generate a strong talent pool of “Internet of Everything” players.
 
@@ -7,9 +7,9 @@ The Internet of Things Learning Initiative
 
 ### Core
 
-The Hardware and Software Basics
-A crash course in Hardware and Software
-Introduction to Hardware and Software
+- The Hardware and Software Basics
+- A crash course in Hardware and Software
+- Introduction to Hardware and Software
 
 1. [__Tbd__]()
 2. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
