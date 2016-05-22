@@ -7,7 +7,6 @@ The Internet of Things Learning Initiative
 
 ### Core
 The Hardware and Software Basics
-The Basics
 A crash course in Hardware and Software
 Introduction to Hardware and Software
 1. [__Basics__](https://theiotlearninginitiative.gitbooks.io/basics/)
