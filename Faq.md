@@ -21,3 +21,4 @@ FAQ
 
 https://www.coursera.org/course/cs101
 https://www.coursera.org/specializations/emerging-technologies
+https://www.coursera.org/course/comparch
