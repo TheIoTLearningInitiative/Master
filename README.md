@@ -91,5 +91,5 @@
 3. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
 4. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
 5. __Microsoft Azure__
-6. __Google__
+6. [__Google Cloud Platform__](https://www.gitbook.com/book/theiotlearninginitiative/googlecloudplatform/details)
 7. __ThingWorx__
