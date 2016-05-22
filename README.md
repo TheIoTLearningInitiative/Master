@@ -9,6 +9,7 @@ The Internet of Things Learning Initiative
 The Hardware and Software Basics
 The Basics
 A crash course in
+Introduction to
 1. [__Basics__](https://theiotlearninginitiative.gitbooks.io/basics/)
 2. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
