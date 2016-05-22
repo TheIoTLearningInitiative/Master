@@ -12,6 +12,6 @@ Project
 Challenge
 
 Programming Assignments
-Demostrations and Walk Through
+Demonstrations and Walk Through
 
 
