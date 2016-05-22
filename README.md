@@ -6,6 +6,7 @@ The Internet of Things Learning Initiative
 ## Curricula
 
 ### Core
+1. [__Basics__](https://theiotlearninginitiative.gitbooks.io/basics/)
 1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ### Linux
