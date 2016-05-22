@@ -14,4 +14,8 @@ FAQ
 - Programming Assignments
 - Demonstrations and Walk Through
 
+- Lecture
+- Review
+- Assignment
+- Bonus
 
