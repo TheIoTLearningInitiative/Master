@@ -6,9 +6,11 @@ The Internet of Things Learning Initiative
 ## Curricula
 
 ### Core
+
 The Hardware and Software Basics
 A crash course in Hardware and Software
 Introduction to Hardware and Software
+
 1. [__Tbd__]()
 2. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
