@@ -20,3 +20,4 @@ FAQ
 - Bonus
 
 https://www.coursera.org/course/cs101
+https://www.coursera.org/specializations/emerging-technologies
