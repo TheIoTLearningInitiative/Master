@@ -7,7 +7,7 @@ The Internet of Things Learning Initiative
 
 ### Core
 1. [__Basics__](https://theiotlearninginitiative.gitbooks.io/basics/)
-1. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
+2. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ### Linux
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
