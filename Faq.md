@@ -22,7 +22,8 @@
   - Limited an all verticals?
   - Project focus? People bring ideas and develop
 
-Return of Investment
+- Return of Investment?
+- 
 
 ## Components
 
