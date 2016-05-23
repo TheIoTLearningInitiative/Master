@@ -13,8 +13,10 @@
 - 90
 
 -  2: Introduction
-  -  
--  5: 
+  -  Basic Solution
+  -  Integration
+-  5: All Verticals
+  -  Solution
   -  
 
 ## Components
