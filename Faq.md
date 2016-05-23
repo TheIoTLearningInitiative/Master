@@ -19,8 +19,8 @@
   -  Intermmediate Solution?
   -  Integration
 - 90: All
-  - Limited an all verticals
-  - 
+  - Limited an all verticals?
+  - Project focus? People bring ideas and develop
 
 ## Components
 
