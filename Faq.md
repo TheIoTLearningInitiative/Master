@@ -1,5 +1,5 @@
-FAQ
-==
+# FAQ
+
 
 - What is The IoT Learning Initiative?
 - What topics does the program include?
@@ -12,7 +12,8 @@ FAQ
 - 5
 - 90
 
--  2: Introduc
+-  2: Introduction
+-  5: 
 
 ## Components
 
