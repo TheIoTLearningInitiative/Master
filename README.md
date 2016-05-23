@@ -34,6 +34,8 @@
 13. Forth
 14. Shell Scripting
 15. MIT App Inventor
+16. Verilog
+17. VHDL
 
 ### Hardware
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
@@ -51,6 +53,7 @@
 12. __LattePanda__
 13. __PINE A64__
 14. Go Board
+15. Field Programmable Gate Array
 
 ### Operating Systems
 1. __Yocto Project__
