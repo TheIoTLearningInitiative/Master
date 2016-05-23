@@ -23,7 +23,7 @@
   - Project focus? People bring ideas and develop
 
 - Return of Investment?
-- Integration Course where you integrate all 5 verticals, 
+- Integration Course where you integrate all 5 verticals, i do not care about 
 
 ## Components
 
