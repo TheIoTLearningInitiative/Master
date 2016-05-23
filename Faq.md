@@ -8,7 +8,9 @@ FAQ
 
 ## Strategy
 
-
+2
+5
+90
 
 ## Components
 
