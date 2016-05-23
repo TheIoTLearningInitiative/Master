@@ -12,7 +12,7 @@ FAQ
 - 5
 - 90
 
--  2: 
+-  2: Introduc
 
 ## Components
 
