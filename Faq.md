@@ -16,7 +16,7 @@
   -  Basic Solution
   -  Integration
 -  5: All Verticals
-  -  Solution
+  -  Intermmediate Solution?
   -  
 
 ## Components
