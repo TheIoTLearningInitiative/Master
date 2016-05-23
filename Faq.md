@@ -19,7 +19,7 @@
   -  Intermmediate Solution?
   -  Integration
 - 90: All
-  - All Verticals
+  - Limited an all verticals
   - 
 
 ## Components
