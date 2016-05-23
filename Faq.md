@@ -16,7 +16,7 @@
   -  Basic Solution
   -  Integration
 -  5: All Verticals
-  -  Intermmediate Solution?
+  -  Intermediate Solution?
   -  Integration
 - 90: All
   - Limited an all verticals?
