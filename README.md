@@ -93,3 +93,5 @@
 5. __Microsoft Azure__
 6. [__Google Cloud Platform__](https://www.gitbook.com/book/theiotlearninginitiative/googlecloudplatform/details)
 7. __ThingWorx__
+
+### Integration Training
