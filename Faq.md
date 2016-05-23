@@ -23,7 +23,7 @@
   - Project focus? People bring ideas and develop
 
 - Return of Investment?
-- 
+- Integration Course
 
 ## Components
 
