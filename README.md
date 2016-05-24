@@ -50,6 +50,7 @@
 13. __PINE A64__
 14. Go Board
 15. Field Programmable Gate Array
+16. OpenPOWER
 
 ### Operating Systems
 1. __Yocto Project__
