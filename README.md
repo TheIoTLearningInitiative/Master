@@ -11,7 +11,7 @@
 - A crash course in Hardware and Software
 - Introduction to Hardware and Software
 
-1. [__Tbd__]()
+1. [__The Hardware and Software Basics__]()
 2. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ### Linux
