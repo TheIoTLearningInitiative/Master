@@ -7,11 +7,7 @@
 
 ### Core
 
-- The Hardware and Software Basics
-- A crash course in Hardware and Software
-- Introduction to Hardware and Software
-
-1. [__The Hardware and Software Basics__]()
+1. [The Hardware and Software Basics]()
 2. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 
 ### Linux
