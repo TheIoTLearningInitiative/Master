@@ -94,8 +94,3 @@
 6. [__Google Cloud Platform__](https://www.gitbook.com/book/theiotlearninginitiative/googlecloudplatform/details)
 7. __ThingWorx__
 
-### Integration Training
-
-1. Retail
-2. Health
-3. ...
