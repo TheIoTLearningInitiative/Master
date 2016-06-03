@@ -7,8 +7,8 @@
 
 ### Core
 
-1. Internet of Things Business
-2. [The Hardware and Software Basics]()
+1. [The Hardware and Software Basics]()
+2. Internet of Things Business
 3. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 4. Internet of Things Architecture
 
