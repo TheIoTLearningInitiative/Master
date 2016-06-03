@@ -8,7 +8,8 @@
 ### Core
 
 1. [The Hardware and Software Basics]()
-2. [__Internet Of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
+2. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
+3. Internet of Things Architecture
 
 ### Linux
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
