@@ -5,15 +5,12 @@
 
 ## Curricula
 
-### Business
-
-1. Internet of Things Business
-
 ### Core
 
-1. [The Hardware and Software Basics]()
-2. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
-3. Internet of Things Architecture
+1. Internet of Things Business
+2. [The Hardware and Software Basics]()
+3. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
+4. Internet of Things Architecture
 
 ### Linux
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
