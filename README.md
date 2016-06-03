@@ -7,7 +7,7 @@
 
 ### Business
 
-1. Why Internet of Things?
+1. Why the Internet of Things?
 
 ### Core
 
