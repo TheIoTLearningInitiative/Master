@@ -7,7 +7,7 @@
 
 ### Business
 
-1. What is the Internet of Things?
+1. Internet of Things Business
 
 ### Core
 
