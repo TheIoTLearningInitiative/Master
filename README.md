@@ -53,6 +53,7 @@
 14. Go Board
 15. Field Programmable Gate Array
 16. OpenPOWER
+17. [__Wio Link__](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
 
 ### Operating Systems
 1. __Yocto Project__
