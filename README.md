@@ -74,7 +74,7 @@
 
 ### Frameworks
 1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
-2. [__Kaa Project__](http://www.kaaproject.org/)
+2. __[Kaa Project](http://www.kaaproject.org/)__
 3. __OpenHAB__
 4. __[ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)__
 5. __[Soletta Project](https://theiotlearninginitiative.gitbooks.io/soletta/content/)__
