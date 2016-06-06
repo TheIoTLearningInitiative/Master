@@ -73,7 +73,7 @@
 15. __MynewT__
 
 ### Frameworks
-1. [__Internet Of Things IoTivity__](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
+1. __[Internet Of Things IoTivity](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)__
 2. __[Kaa Project](http://www.kaaproject.org/)__
 3. __OpenHAB__
 4. __[ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)__
