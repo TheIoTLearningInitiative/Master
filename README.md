@@ -77,7 +77,7 @@
 2. [__Kaa Project__](http://www.kaaproject.org/)
 3. __OpenHAB__
 4. __[ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)__
-5. __Soletta Project__
+5. __[Soletta Project](https://theiotlearninginitiative.gitbooks.io/soletta/content/)__
 6. [__Kura__](http://www.eclipse.org/kura/)
 
 ### Specialization
