@@ -14,7 +14,8 @@
 
 ### Linux
 1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-2. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
+2. [__The Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
+3. __The Linux Kernel Development Process__
 
 ### Software
 1. Integrated Development Environments
