@@ -36,7 +36,7 @@
 16. Verilog
 17. VHDL
 
-### Hardware
+### Hardware Development Boards
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
 2. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
 3. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
