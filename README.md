@@ -17,7 +17,7 @@
 2. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
 3. __Linux Kernel Development Process__
 
-### Software
+### Programming Languages
 1. Integrated Development Environments
 2. C
 3. C++
