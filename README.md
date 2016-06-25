@@ -52,7 +52,7 @@
 12. __LattePanda__
 13. __PINE A64__
 14. Go Board
-15. Field Programmable Gate Array
+15. [Field Programmable Gate Array]()
 16. OpenPOWER
 17. [__Wio Link__](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
 
