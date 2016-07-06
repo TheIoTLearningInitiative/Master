@@ -14,7 +14,7 @@
 
 ### Linux
 1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
-2. 
+2. [____]()
 3. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
 4. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
 5. __Linux Kernel Development Process__
