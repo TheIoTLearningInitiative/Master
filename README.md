@@ -14,9 +14,10 @@
 
 ### Linux
 1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
-1. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-2. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
-3. __Linux Kernel Development Process__
+2. 
+3. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
+4. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
+5. __Linux Kernel Development Process__
 
 ### Programming Languages
 1. Integrated Development Environments
