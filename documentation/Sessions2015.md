@@ -17,5 +17,3 @@
   - Abraham Arce
   - 12 Attendees
 
-
-
