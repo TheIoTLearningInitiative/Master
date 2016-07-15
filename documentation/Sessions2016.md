@@ -5,6 +5,23 @@
 - __[01]__ November 12th, 2015, 1 Hour @ Intel
   - Lynette Layne, Marco Salgado
 
+# Intel® Galileo
+
+- __[01]__ April 01st, 2016, 2 Hours @ Centro de Cultura Digital, Arduino Day, Hacedores
+  - 10 Attendees
+
+
+# Intel® Edison
+
+- __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
+  - 80 Attendees
+
+- __[02]__ June 30th, 2016, 2 Hours @ Campus Party Guadalajara, Universidad de Guadalajara
+  - 15 Attendees
+
+- __[03]__ July 1st, 2016, 2 Hours @ Campus Party COZCyT
+  - 15 Attendees
+
 # Internet of Things 101
 
 - __[01]__ March XXth, 2016, 4 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
@@ -36,23 +53,7 @@
 - __[04]__ July 15th 2016, 8 Hours @ Intel Guadalajara Design Center
   - 20Attendees
 
-# Intel® Edison
-
-- __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
-  - 80 Attendees
-
-- __[02]__ June 30th, 2016, 2 Hours @ Campus Party Guadalajara, Universidad de Guadalajara
-  - 15 Attendees
-
-- __[03]__ July 1st, 2016, 2 Hours @ Campus Party COZCyT
-  - 15 Attendees
-
 # IBM Bluemix
 
 - __[01]__ March XXth, 2016, 3 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
-
-# Intel® Galileo
-
-- __[01]__ April 01st, 2016, 2 Hours @ Centro de Cultura Digital, Arduino Day, Hacedores
-  - 10 Attendees
