@@ -35,6 +35,9 @@
 - __[04]__ March 16th, 23th, 30th 2016, 15 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
+- __[04]__ March 16th, 23th, 30th 2016, 15 Hours @ Universidad Digital Internet of Things, Intel
+  - 25 Attendees
+
 ### Embedded Linux
 
 - __[01]__ March 30th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
