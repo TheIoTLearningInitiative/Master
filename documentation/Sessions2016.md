@@ -67,6 +67,9 @@
 - __[01]__ July 2th 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
   - 15 Attendees
 
+- __[02]__ July 2th 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
+  - 15 Attendees
+
 # Internet of Things Communications
 
 - __[01]__ July 16th 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
