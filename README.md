@@ -10,7 +10,6 @@
 2. Internet of Things Business
 3. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 4. Internet of Things Architecture
-5. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
 
 ### Linux
 1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
@@ -89,7 +88,9 @@
 3. [__Internet of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
 4. [__Internet of Things Cloud__](https://theiotlearninginitiative.gitbooks.io/internetofthingscloud/content/)
 5. [__Internet of Things Analytics__](https://theiotlearninginitiative.gitbooks.io/internetofthingsanalytics/content/)
-5. [__Internet of Things Security__]()
+6. [__Internet of Things Security__]()
+7. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
+
 
 ### Platforms
 1. __Intel__
