@@ -52,6 +52,11 @@
 - __[04]__ July 15th 2016, 8 Hours @ Intel Guadalajara Design Center
   - 20 Attendees
 
+# Zephyr
+
+- __[01]__ July 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
+  - 25 Attendees
+
 # Wind River
 
 - __[02]__ June 11th 2016, 4 Hours @ UaG
