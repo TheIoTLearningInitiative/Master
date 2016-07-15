@@ -2,9 +2,7 @@
 
 > Internet of Things Learning Initiative promotes education in Science, Technology, Engineering, and Mathematics through a collaboration model with the initial focus to generate a strong talent pool of “Internet of Everything” players.
 
-## Curricula
-
-### Core
+# Core
 
 1. [__The Hardware and Software Basics__](https://theiotlearninginitiative.gitbooks.io/the-hardware-and-software-basics/content/)
 2. Internet of Things Business
@@ -12,7 +10,7 @@
 4. Internet of Things Architecture
 5. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
 
-### Linux
+# Linux
 
 1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
 2. [__Introduction to Linux__](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
@@ -20,7 +18,7 @@
 4. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
 5. Linux Kernel Development Process
 
-### Programming Languages
+# Programming Languages
 
 1. Integrated Development Environments
 2. C
@@ -40,7 +38,7 @@
 16. Verilog
 17. VHDL
 
-### Hardware Development Boards
+# Hardware Development Boards
 
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
 2. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
@@ -61,7 +59,7 @@
 16. OpenPOWER
 17. [__Wio Link__](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
 
-### Operating Systems
+# Operating Systems
 
 1. __Yocto Project__
 2. __Windows 10__
@@ -79,7 +77,7 @@
 14. [__Ubilinux__](https://theiotlearninginitiative.gitbooks.io/ubilinux/content/)
 15. __MynewT__
 
-### Frameworks
+# Frameworks
 
 1. __[Internet Of Things IoTivity](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)__
 2. __[Kaa Project](http://www.kaaproject.org/)__
@@ -88,7 +86,7 @@
 5. __[Soletta Project](https://theiotlearninginitiative.gitbooks.io/soletta/content/)__
 6. __[Kura](http://www.eclipse.org/kura/)__
 
-### Specialization
+# Specialization
 
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
 2. [__Internet of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
@@ -97,7 +95,7 @@
 5. [__Internet of Things Analytics__](https://theiotlearninginitiative.gitbooks.io/internetofthingsanalytics/content/)
 6. [__Internet of Things Security__]()
 
-### Platforms
+# Platforms
 
 1. __Intel__
 2. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
