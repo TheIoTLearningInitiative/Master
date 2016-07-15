@@ -13,6 +13,7 @@
 5. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
 
 ### Linux
+
 1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
 2. [__Introduction to Linux__](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 3. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
@@ -20,6 +21,7 @@
 5. Linux Kernel Development Process
 
 ### Programming Languages
+
 1. Integrated Development Environments
 2. C
 3. C++
@@ -39,6 +41,7 @@
 17. VHDL
 
 ### Hardware Development Boards
+
 1. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
 2. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
 3. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
@@ -59,6 +62,7 @@
 17. [__Wio Link__](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
 
 ### Operating Systems
+
 1. __Yocto Project__
 2. __Windows 10__
 3. [__Google Brillo__](https://theiotlearninginitiative.gitbooks.io/googlebrillo/content/)
@@ -76,6 +80,7 @@
 15. __MynewT__
 
 ### Frameworks
+
 1. __[Internet Of Things IoTivity](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)__
 2. __[Kaa Project](http://www.kaaproject.org/)__
 3. __OpenHAB__
@@ -84,6 +89,7 @@
 6. __[Kura](http://www.eclipse.org/kura/)__
 
 ### Specialization
+
 1. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
 2. [__Internet of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
 3. [__Internet of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
@@ -92,6 +98,7 @@
 6. [__Internet of Things Security__]()
 
 ### Platforms
+
 1. __Intel__
 2. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
 3. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
@@ -99,4 +106,3 @@
 5. __Microsoft Azure__
 6. [__Google Cloud Platform__](https://www.gitbook.com/book/theiotlearninginitiative/googlecloudplatform/details)
 7. __ThingWorx__
-
