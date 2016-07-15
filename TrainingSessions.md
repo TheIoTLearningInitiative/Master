@@ -55,5 +55,5 @@
 
 ### Intel® Galileo
 
-- __[01]__ April 01st, 2016, 2 Hours @ Centro de cultura Digital, Arduino Day, Hacedores
+- __[01]__ April 01st, 2016, 2 Hours @ Centro de Cultura Digital, Arduino Day, Hacedores
   - 10 Attendees
