@@ -1,6 +1,5 @@
 # The Internet of Things Learning Initiative
 
-
 > Internet of Things Learning Initiative promotes education in Science, Technology, Engineering, and Mathematics through a collaboration model with the initial focus to generate a strong talent pool of “Internet of Everything” players.
 
 ## Curricula
