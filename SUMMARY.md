@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [FAQ](Faq.md)
 * [Sessions](TrainingSessions.md)
+   * 2015
 * [Equipment](Equipment.md)
 * [Organizations](Organizations.md)
 * [Required Profile](RequiredProfile.md)
