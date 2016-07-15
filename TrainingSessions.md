@@ -35,8 +35,8 @@
 - __[04]__ March 16th, 23th, 30th 2016, 15 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
-- __[04]__ March 16th, 23th, 30th 2016, 15 Hours @ Universidad Digital Internet of Things, Intel
-  - 25 Attendees
+- __[05]__ July 16th, 23th, 30th 2016, 8 Hours @ Intel Guadalajara Design Center
+  - 20 Attendees
 
 ### Embedded Linux
 
