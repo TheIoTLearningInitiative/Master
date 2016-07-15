@@ -21,6 +21,10 @@
 
 ## 2016
 
+### Intel® Boards
+- __[01]__ November 12th, 2015, 1 Hour @ Intel
+  - Lynette Layne, Marco Salgado
+
 ### Internet of Things 101
 
 - __[01]__ March XXth, 2016, 4 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
