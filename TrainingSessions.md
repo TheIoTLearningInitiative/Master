@@ -1,5 +1,4 @@
-Sessions
-==
+# Sessions
 
 ## 2015
 
