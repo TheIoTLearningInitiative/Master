@@ -42,6 +42,12 @@
 - __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
 
+- __[02]__ July th, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
+  - 15 Attendees
+
+- __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
+  - 15 Attendees
+
 ### IBM Bluemix
 
 - __[01]__ March XXth, 2016, 3 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
