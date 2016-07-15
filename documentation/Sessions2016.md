@@ -54,7 +54,7 @@
 
 # Zephyr
 
-- __[01]__ July 7th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
+- __[01]__ June 25th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
   - 25 Attendees
 
 # Wind River
