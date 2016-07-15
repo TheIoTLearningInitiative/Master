@@ -10,7 +10,6 @@
 - __[01]__ April 01st, 2016, 2 Hours @ Centro de Cultura Digital, Arduino Day, Hacedores
   - 10 Attendees
 
-
 # Intel® Edison
 
 - __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
