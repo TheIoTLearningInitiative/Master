@@ -75,7 +75,7 @@
 - __[01]__ July 16th 2016, 4 Hours @ Universidad Digital Internet of Things, Intel
   - 15 Attendees
 
-- __[01]__ July 16th 2016, 4 Hours @ Intel Guadalajara Design Center
+- __[01]__ July 18th 2016, 4 Hours @ Intel Guadalajara Design Center
   - 15 Attendees
 
 # IBM Bluemix
