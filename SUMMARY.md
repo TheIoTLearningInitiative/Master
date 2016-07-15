@@ -4,7 +4,7 @@
 * [FAQ](Faq.md)
 * [Sessions](TrainingSessions.md)
    * [2015](documentation/Sessions2015.md)
-   * 2016
+   * [2016](documentation/Sessions2016.md)
 * [Equipment](Equipment.md)
 * [Organizations](Organizations.md)
 * [Required Profile](RequiredProfile.md)
