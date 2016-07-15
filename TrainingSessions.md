@@ -47,6 +47,9 @@ Sessions
 - __[03]__ May 15th 2016, 5 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas IoT Internet of Things
   - 25 Attendees
 
+- __[03]__ May 15th 2016, 5 Hours @ Intel Guadalajara Design Center
+  - 20Attendees
+
 ### Intel® Edison
 
 - __[01]__ March XXth, 2016, 2 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
