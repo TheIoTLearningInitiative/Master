@@ -50,12 +50,12 @@
   - 25 Attendees
 
 - __[04]__ July 15th 2016, 8 Hours @ Intel Guadalajara Design Center
-  - 20Attendees
+  - 20 Attendees
 
 # Wind River
 
 - __[02]__ June 11th 2016, 4 Hours @ UaG
-  - 25 Attendees
+  - 15 Attendees
 
 # Internet of Things Sensors
 
