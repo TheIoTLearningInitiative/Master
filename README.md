@@ -11,6 +11,7 @@
 2. Internet of Things Business
 3. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 4. Internet of Things Architecture
+5. Software Defined Radio
 
 ### Linux
 1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
