@@ -9,7 +9,7 @@
 3. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 4. Internet of Things Architecture
 5. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
-6. [Databases](https://theiotlearninginitiative.gitbooks.io/databases/content/)
+6. [__Databases__](https://theiotlearninginitiative.gitbooks.io/databases/content/)
 
 # Linux
 
