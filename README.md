@@ -11,14 +11,6 @@
 5. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
 6. [__Databases__](https://theiotlearninginitiative.gitbooks.io/databases/content/)
 
-# Linux
-
-1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
-2. [__Introduction to Linux__](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-3. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-4. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
-5. Linux Kernel Development Process
-
 # Programming Languages
 
 1. Integrated Development Environments
@@ -38,6 +30,14 @@
 15. MIT App Inventor
 16. Verilog
 17. VHDL
+
+# Linux
+
+1. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
+2. [__Introduction to Linux__](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+3. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
+4. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
+5. Linux Kernel Development Process
 
 # Hardware Development Boards
 
