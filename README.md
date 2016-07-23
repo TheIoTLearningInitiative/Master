@@ -2,6 +2,15 @@
 
 > Internet of Things Learning Initiative promotes education in Science, Technology, Engineering, and Mathematics through a collaboration model with the initial focus to generate a strong talent pool of “Internet of Everything” players.
 
+1. Core
+2. Programming Languages
+3. Linux
+4. Hardware Development Boards
+5. Operating Systems
+6. Frameworks
+7. Specialization
+8. Platforms
+
 # Core
 
 1. [__The Hardware and Software Basics__](https://theiotlearninginitiative.gitbooks.io/the-hardware-and-software-basics/content/)
