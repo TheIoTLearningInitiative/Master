@@ -1,5 +1,4 @@
-Equipment
-==
+# Equipment
 
 ## Laboratory I
 
