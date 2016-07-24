@@ -24,21 +24,11 @@
 
 1. Integrated Development Environments
 2. C
-3. C++
 4. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
 5. JavaScript
 6. Verilog
 7. R
-8. Go
-9. Java
-10. Rust
-11. Parasail
-12. B#
-13. Forth
 14. Shell Scripting
-15. MIT App Inventor
-16. Verilog
-17. VHDL
 
 # Linux
 
