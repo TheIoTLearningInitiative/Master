@@ -24,11 +24,11 @@
 
 1. Integrated Development Environments
 2. C
-4. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
-5. JavaScript
-6. Verilog
-7. R
-14. Shell Scripting
+3. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
+4. JavaScript
+5. Verilog
+6. R
+7. Shell Scripting
 
 # Linux
 
