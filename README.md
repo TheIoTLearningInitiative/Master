@@ -1,6 +1,6 @@
 # The Internet of Things Learning Initiative
 
-> Promoting an Integrated STEM Open Source Collaboration Model to enable a strong talent pool of “Internet of Everything” players. Innovation through Education.
+> Promoting an Integrated STEM Open Source Collaboration Model to enable a strong talent pool of “Internet of Everything” players. Innovation through Education. 
 
 1. Core
 2. Programming Languages
