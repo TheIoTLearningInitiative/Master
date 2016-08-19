@@ -24,7 +24,6 @@ https://theiotlearninginitiative.gitbooks.io/master/content/
 ## Objetivo
 
 Comprender lo que es el Internet de las Cosas, identificar sus componentes y crear un proyecto básico.
-Temas, Minutos
 
 ## Módulos
 
