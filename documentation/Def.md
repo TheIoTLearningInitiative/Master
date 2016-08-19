@@ -52,4 +52,3 @@ Comparar tarjetas de desarrollo de hardware y aprender sobre las ventajas de cor
 - El entorno de depuración, 30 Minutos
 - Desarrollo de aplicaciones desde Drones hasta Inteligencia Artificial, 30 Minutos
 - Reto de Inteligencia Artificial, 180 Minutos
-
