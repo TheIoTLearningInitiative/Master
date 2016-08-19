@@ -11,6 +11,6 @@
 * [Organizer's Manual](OrganizersManual.md)
 * [Playground](Playground.md)
 * [Classroom](Classroom.md)
-   * Def
+   * [Def](documentation/Def.md)
 * [SandBox](Sandbox.md)
 
