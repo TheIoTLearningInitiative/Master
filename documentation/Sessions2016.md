@@ -21,7 +21,7 @@
 - __[03]__ July 1st, 2016, 2 Hours @ Campus Party COZCyT
   - 15 Attendees
 
-- __[03]__ July 1st, 2016, 1 Hour @ Intel Guadalajara Design Center, Bimbo
+- __[03]__ July 1st, 2016, 1 Hour @ Intel Guadalajara Design Center, Bimbo Innovation Team
   - 15 Attendees
 
 # Internet of Things 101
