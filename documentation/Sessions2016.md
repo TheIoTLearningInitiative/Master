@@ -38,6 +38,9 @@
 - __[05]__ July 16th, 17th, 30th 2016, 8 Hours @ Intel Guadalajara Design Center
   - 20 Attendees
 
+- __[06]__ July 16th, 17th, 30th 2016, 8 Hours @ Intel Guadalajara Design Center
+  - 20 Attendees
+
 # Embedded Linux
 
 - __[01]__ March 30th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
