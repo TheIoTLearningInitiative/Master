@@ -39,7 +39,10 @@
   - 20 Attendees
 
 - __[06]__ August 23th, 30th, 2016, 8 Hours @ Mexico Innovacion y Diseno
-  - 20 Attendees
+  - 25 Attendees
+
+- __[07]__ August 23th, 30th, 2016, 8 Hours @ Mexico Innovacion y Diseno
+  - 25 Attendees
 
 # Embedded Linux
 
