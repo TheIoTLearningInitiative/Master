@@ -44,7 +44,10 @@
 - __[06]__ August 23th, 30th, 2016, 8 Hours @ Mexico Innovacion y Diseno
   - 25 Attendees
 
-- __[07]__ September 13th, 14th, 15th 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
+- __[06]__ September 9th, 2016, 8 Hours @ Centro Del Software IJALTI
+  - 25 Attendees
+ 
+- __[07]__ September 13th, 14th, 15th, 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
   - 30 Attendees
 
 # Embedded Linux
@@ -94,3 +97,4 @@
 
 - __[01]__ March XXth, 2016, 3 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
+
