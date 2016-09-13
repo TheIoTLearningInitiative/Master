@@ -97,4 +97,3 @@
 
 - __[01]__ March XXth, 2016, 3 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
   - 80 Attendees
-
