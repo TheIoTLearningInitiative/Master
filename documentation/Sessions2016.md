@@ -45,7 +45,7 @@
   - 25 Attendees
 
 - __[07]__ September 13th, 14th, 15th 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
-  - 25 Attendees
+  - 30 Attendees
 
 # Embedded Linux
 
