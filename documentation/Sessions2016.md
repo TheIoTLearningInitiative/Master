@@ -38,7 +38,7 @@
 - __[05]__ July 16th, 17th, 30th 2016, 8 Hours @ Intel Guadalajara Design Center
   - 20 Attendees
 
-- __[06]__ August 23th, th, 30th 2016, 8 Hours @ Intel Guadalajara Design Center
+- __[06]__ August 23th, 30th, 2016, 8 Hours @ Intel Guadalajara Design Center
   - 20 Attendees
 
 # Embedded Linux
