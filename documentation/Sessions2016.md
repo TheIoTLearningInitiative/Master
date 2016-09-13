@@ -21,6 +21,9 @@
 - __[03]__ July 1st, 2016, 2 Hours @ Campus Party COZCyT
   - 15 Attendees
 
+- __[03]__ July 1st, 2016, 1 Hour @ Intel Guadalajara Design Center, Bimbo
+  - 15 Attendees
+
 # Internet of Things 101
 
 - __[01]__ March XXth, 2016, 4 Hours @ Vertical Workshop Preparation, ITESM Guadalajara
