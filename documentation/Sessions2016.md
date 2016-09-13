@@ -61,6 +61,9 @@
 - __[04]__ July 15th 2016, 8 Hours @ Intel Guadalajara Design Center
   - 20 Attendees
 
+- __[07]__ September 13th, 14th, 15th 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
+  - 30 Attendees
+
 # Zephyr
 
 - __[01]__ June 25th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
