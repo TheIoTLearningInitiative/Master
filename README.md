@@ -10,7 +10,7 @@ Topics
 04. Hardware Development Boards
 05. Operating Systems
 06. Frameworks
-07. Specialization
+07. Specialization 
 08. Platforms
 
 # Core
@@ -34,7 +34,7 @@ Topics
 
 # Linux
 
-01. [__Linux Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
+01. [__Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
 02. [__Introduction to Linux__](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 03. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
 04. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
