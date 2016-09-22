@@ -19,18 +19,18 @@ Topics
 02. Internet of Things Business
 03. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
 04. Internet of Things Architecture
-05. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
-06. [__Databases__](https://theiotlearninginitiative.gitbooks.io/databases/content/)
+05. Integrated Development Environments
+06.  [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
+07. [__Databases__](https://theiotlearninginitiative.gitbooks.io/databases/content/)
 
 # Programming Languages
 
-01. Integrated Development Environments
-02. C
-03. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
-04. JavaScript
-05. Verilog
-06. R
-07. Shell Scripting
+01. C
+02. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
+03. JavaScript
+04. Verilog
+05. R
+06. Shell Scripting
 
 # Linux
 
