@@ -53,13 +53,14 @@ Topics
 09. [__Arduino__](https://theiotlearninginitiative.gitbooks.io/arduino/content/)
 10. [__Photon__](https://theiotlearninginitiative.gitbooks.io/photon/content/)
 11. [__RedBear Duo__](https://theiotlearninginitiative.gitbooks.io/redbearduo/content/)
-11. __Up Board__
-12. __LattePanda__
-13. __PINE A64__
-14. Go Board
-15. [Field Programmable Gate Array]()
-16. OpenPOWER
-17. [__Wio Link__](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
+12. TI LaunchPad
+12. __Up Board__
+13. __LattePanda__
+14. __PINE A64__
+15. Go Board
+16. [Field Programmable Gate Array]()
+17. OpenPOWER
+18. [__Wio Link__](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
 
 # Operating Systems
 
