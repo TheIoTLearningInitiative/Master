@@ -53,7 +53,7 @@ Topics
 09. [__Arduino__](https://theiotlearninginitiative.gitbooks.io/arduino/content/)
 10. [__Photon__](https://theiotlearninginitiative.gitbooks.io/photon/content/)
 11. [__RedBear Duo__](https://theiotlearninginitiative.gitbooks.io/redbearduo/content/)
-12. TI LaunchPad
+12. Texas Instruments LaunchPad Development Kits
 12. __Up Board__
 13. __LattePanda__
 14. __PINE A64__
