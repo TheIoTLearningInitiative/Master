@@ -26,7 +26,7 @@ Topics
 # Programming Languages
 
 01. C
-02. [__Python__](https://theiotlearninginitiative.gitbooks.io/python/content/)
+02. Python
 03. JavaScript
 04. Verilog
 05. R
