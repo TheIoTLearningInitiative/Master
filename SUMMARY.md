@@ -6,7 +6,6 @@
    * [2015](documentation/Sessions2015.md)
    * [2016](documentation/Sessions2016.md)
 * Laboratory
-   * [Equipment](Equipment.md)
    * [Intel Based](documentation/LaboratoryIntelBased.md)
 * [Required Profile](RequiredProfile.md)
 * [Stores](Stores.md)
