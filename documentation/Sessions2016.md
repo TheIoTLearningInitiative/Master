@@ -70,10 +70,10 @@
 - __[05]__ September 13th, 14th, 15th 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
   - 30 Attendees
 
-- __[06]__ , 8 Hours @ CITIC
+- __[06]__ , 6 Hours @ CITIC
   - 30 Attendees
 
-- __[07]__ , 8 Hours @ CITIC
+- __[07]__ , 6 Hours @ CITIC
   - 30 Attendees
 
 # Zephyr
