@@ -1,4 +1,4 @@
-# Equipment
+# Intel Based
 
 ## Laboratory
 
