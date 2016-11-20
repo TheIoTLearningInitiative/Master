@@ -2,5 +2,5 @@
 
 | Quantity | Single Price USD | Total Price USD | Description + Link |
 | -------- | ---------------- | --------------- | ------------------ |
-|          |                  |                 | |
-|          |     Grand Total  |                 | |
+|     05   |        9.00      |       45.00     |       [C.H.I.P.](https://getchip.com/pages/chip)     |
+|          |    Grand Total   |                 | |
