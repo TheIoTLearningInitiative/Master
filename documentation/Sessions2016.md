@@ -50,7 +50,7 @@
 - __[07]__ September 13th, 14th, 15th, 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
   - 30 Attendees
 
-- __[08]__ September 13th, 14th, 15th, 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
+- __[08]__ , 8 Hours @ CITIC
   - 30 Attendees
 
 # Embedded Linux
