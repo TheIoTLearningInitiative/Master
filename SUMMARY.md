@@ -12,10 +12,10 @@
    * [Intel Based](documentation/LaboratoryIntelBased.md)
 * [Required Profile](RequiredProfile.md)
 * [FAQ](Faq.md)
-* [Playground](Playground.md)
 * [SandBox](Sandbox.md)
    * [Classroom](Classroom.md)
        * [Def](documentation/Def.md)
    * [Stores](Stores.md)
+   * [Playground](Playground.md)
    * Tbd
 
