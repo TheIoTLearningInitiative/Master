@@ -1,6 +1,6 @@
 # Basic
 
-| Quantity | Single Price USD | Total Price USD |  Description + Link  |
+| Quantity | Single Price USD | Total Price USD |  Description ~ Link  |
 | -------- | ---------------- | --------------- | -------------------- |
 |    10    |        2.00      |       20.00     | USB-A-to-microUSB-B  |
 |    05    |        9.00      |       45.00     |        [C.H.I.P.](https://getchip.com/pages/chip)      |
