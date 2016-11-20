@@ -1,3 +1,3 @@
 # Playground
 
-Strategy: Use your own githuh and share
+Strategy: Use your own github and share
