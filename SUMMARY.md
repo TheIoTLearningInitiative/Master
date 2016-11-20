@@ -3,10 +3,10 @@
 * [Cover](README.md)
 * [FAQ](Faq.md)
 * [Workshops](documentation/Workshops.md)
+   * [Sessions](TrainingSessions.md)
+       * [2015](documentation/Sessions2015.md)
+       * [2016](documentation/Sessions2016.md)
    * Tbd
-* [Sessions](TrainingSessions.md)
-   * [2015](documentation/Sessions2015.md)
-   * [2016](documentation/Sessions2016.md)
 * Laboratory
    * [Intel Based](documentation/LaboratoryIntelBased.md)
 * [Required Profile](RequiredProfile.md)
