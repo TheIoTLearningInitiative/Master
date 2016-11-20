@@ -9,8 +9,8 @@
        * [2016](documentation/Sessions2016.md)
    * Tbd
 * Laboratory
-   * [Intel Based](documentation/LaboratoryIntelBased.md)
    * Basic
+   * [Intel Based](documentation/LaboratoryIntelBased.md)
 * [Required Profile](RequiredProfile.md)
 * [Stores](Stores.md)
 * [Playground](Playground.md)
