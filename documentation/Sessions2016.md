@@ -50,6 +50,9 @@
 - __[07]__ September 13th, 14th, 15th, 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
   - 30 Attendees
 
+- __[08]__ September 13th, 14th, 15th, 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
+  - 30 Attendees
+
 # Embedded Linux
 
 - __[01]__ March 30th, 2016, 8 Hours @ Labsol Centro de Comunicación y Divulgación del COZCyT Zacatecas
