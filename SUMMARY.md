@@ -14,8 +14,8 @@
 * [SandBox](Sandbox.md)
    * [Classroom](Classroom.md)
        * [Def](documentation/Def.md)
-   * [Stores](Stores.md)
    * [Playground](Playground.md)
    * [Required Profile](RequiredProfile.md)
+   * [Stores](Stores.md)
    * Tbd
 
