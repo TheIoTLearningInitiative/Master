@@ -13,7 +13,7 @@ Experience on:
 - Excellent problem analysis and problem solving skills
 - Excellent written, verbal and presentation English skills
 
-Candidate must have 3+ months of work or educational experience with the following:
+3+ months of work or educational experience with the following:
 
 - Hardware hacking (Arduino, Raspberry Pi, Intel Edison, Intel Galileo, etc)
 - Networking and Cloud Service
