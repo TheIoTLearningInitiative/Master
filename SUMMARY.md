@@ -1,7 +1,6 @@
 # Summary
 
 * [Cover](README.md)
-* [FAQ](Faq.md)
 * [Workshops](documentation/Workshops.md)
    * [Organizer's Manual](OrganizersManual.md)
    * Sessions
@@ -12,6 +11,7 @@
    * [Basic](documentation/LaboratoryBasic.md)
    * [Intel Based](documentation/LaboratoryIntelBased.md)
 * [Required Profile](RequiredProfile.md)
+* [FAQ](Faq.md)
 * [Playground](Playground.md)
 * [SandBox](Sandbox.md)
    * [Classroom](Classroom.md)
