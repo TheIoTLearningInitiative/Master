@@ -10,6 +10,7 @@
    * Tbd
 * Laboratory
    * [Intel Based](documentation/LaboratoryIntelBased.md)
+   * Basic
 * [Required Profile](RequiredProfile.md)
 * [Stores](Stores.md)
 * [Playground](Playground.md)
