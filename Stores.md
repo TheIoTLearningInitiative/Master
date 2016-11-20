@@ -1,4 +1,5 @@
 # Stores
+
 ## Mexico
 
 - [Blasbot IO](http://blastbot.io/)
