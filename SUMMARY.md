@@ -7,6 +7,7 @@
    * [2016](documentation/Sessions2016.md)
 * Laboratory
    * [Equipment](Equipment.md)
+   * Intel Based
 * [Required Profile](RequiredProfile.md)
 * [Stores](Stores.md)
 * [Organizer's Manual](OrganizersManual.md)
