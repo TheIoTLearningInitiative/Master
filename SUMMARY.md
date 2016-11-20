@@ -10,12 +10,12 @@
 * Laboratory
    * [Basic](documentation/LaboratoryBasic.md)
    * [Intel Based](documentation/LaboratoryIntelBased.md)
-* [Required Profile](RequiredProfile.md)
 * [FAQ](Faq.md)
 * [SandBox](Sandbox.md)
    * [Classroom](Classroom.md)
        * [Def](documentation/Def.md)
    * [Stores](Stores.md)
    * [Playground](Playground.md)
+   * [Required Profile](RequiredProfile.md)
    * Tbd
 
