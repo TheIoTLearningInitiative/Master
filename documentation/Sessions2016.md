@@ -70,6 +70,12 @@
 - __[05]__ September 13th, 14th, 15th 2016, 9 Hours @ Congreso de Innovación Ciencia Y Tecnología) del Instituto Tecnológico Superior de Zapopan
   - 30 Attendees
 
+- __[06]__ , 8 Hours @ CITIC
+  - 30 Attendees
+
+- __[07]__ , 8 Hours @ CITIC
+  - 30 Attendees
+
 # Zephyr
 
 - __[01]__ June 25th, 21st 2016, 10 Hours @ Universidad Digital Internet of Things, Intel
