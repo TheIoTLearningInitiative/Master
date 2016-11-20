@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [FAQ](Faq.md)
 * [Workshops](documentation/Workshops.md)
-   * [Sessions](TrainingSessions.md)
+   * Sessions
        * [2015](documentation/Sessions2015.md)
        * [2016](documentation/Sessions2016.md)
    * Tbd
