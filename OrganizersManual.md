@@ -8,8 +8,6 @@
 
 What it takes?
 
-[Trello Homepage](https://trello.com/)
-
 - 1 month before
 - 2 weeks
 - 1 week
