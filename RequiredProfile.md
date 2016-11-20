@@ -2,7 +2,7 @@
 
 # Basic Qualifications
 
-You must possess either a Bachelors or Master's Degree in Computer Science, Electrical, Computer Engineering or a related field with experience on:
+Experience on:
 
 - Computer Architecture
 - C/C++
