@@ -1,110 +1,115 @@
 # The Internet of Things Learning Initiative
 
-> Promoting an Integrated STEM Open Source Collaboration Model to enable a strong talent pool of “Internet of Everything” players. Innovation through Education. 
+> Promoting an Integrated STEM Open Source Collaboration Model to enable a strong talent pool of “Internet of Everything” players. Innovation through Education.
 
 Topics
 
-01. Core
-02. Programming Languages
-03. Linux
-04. Hardware Development Boards
-05. Operating Systems
-06. Frameworks
-07. Specialization 
-08. Platforms
+1. Core
+2. Programming Languages
+3. Linux
+4. Hardware Development Boards
+5. Operating Systems
+6. Frameworks
+7. Specialization 
+8. Platforms
 
 # Core
 
-01. [__The Hardware and Software Basics__](https://theiotlearninginitiative.gitbooks.io/the-hardware-and-software-basics/content/)
-02. Internet of Things Business
-03. [__Internet of Things 101__](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
-04. Internet of Things Architecture
-05. Integrated Development Environments
-06.  [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
-07. [__Databases__](https://theiotlearninginitiative.gitbooks.io/databases/content/)
+1. [**The Hardware and Software Basics**](https://theiotlearninginitiative.gitbooks.io/the-hardware-and-software-basics/content/)
+2. Internet of Things Business
+3. [**Internet of Things 101**](https://theiotlearninginitiative.gitbooks.io/internetofthings101/)
+4. Internet of Things Architecture
+5. Integrated Development Environments
+6. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
+7. [**Databases**](https://theiotlearninginitiative.gitbooks.io/databases/content/)
+8. [**Version Control Systems**](https://theiotlearninginitiative.gitbooks.io/databases/content/)
+
 
 # Programming Languages
 
-01. C
-02. Python
-03. JavaScript
-04. Verilog
-05. R
-06. Shell Scripting
+1. C
+2. Python
+3. JavaScript
+4. Verilog
+5. R
+6. Shell Scripting
 
 # Linux
 
-01. [__Command Line Basics__](https://www.udacity.com/course/linux-command-line-basics--ud595)
-02. [__Introduction to Linux__](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-03. [__Embedded Linux__](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
-04. [__Linux Kernel__](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
-05. Linux Kernel Development Process
+1. [**Command Line Basics**](https://www.udacity.com/course/linux-command-line-basics--ud595)
+2. [**Introduction to Linux**](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+3. [**Embedded Linux**](https://theiotlearninginitiative.gitbooks.io/embedded-linux/)
+4. [**Linux Kernel**](https://theiotlearninginitiative.gitbooks.io/linuxkernel/content/)
+5. Linux Kernel Development Process
 
 # Hardware Development Boards
 
-01. [__Intel® Edison__](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
-02. [__Intel® Galileo__](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
-03. [__Intel® Curie__](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
-04. __Intel® Quark D2000__
-05. [__MinnowBoard MAX__](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
-06. [__NodeMCU__](https://theiotlearninginitiative.gitbooks.io/nodemcu/content/) 
-07. [__Raspberry Pi__](https://theiotlearninginitiative.gitbooks.io/raspberrypi/content/)
-08. [__Next Thing Co. C.H.I.P.__](https://theiotlearninginitiative.gitbooks.io/nextthingcochip/content/)
-09. [__Arduino__](https://theiotlearninginitiative.gitbooks.io/arduino/content/)
-10. [__Photon__](https://theiotlearninginitiative.gitbooks.io/photon/content/)
-11. [__RedBear Duo__](https://theiotlearninginitiative.gitbooks.io/redbearduo/content/)
-12. [__Texas Instruments LaunchPad Development Kits__](https://theiotlearninginitiative.gitbooks.io/texas-instruments-launchpad-development-kits/content/)
-12. __Up Board__
-13. __LattePanda__
-14. __PINE A64__
-15. Go Board
-16. [Field Programmable Gate Array]()
-17. OpenPOWER
-18. [__Wio Link__](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
-19. [PyCom](https://www.pycom.io/)
+1. [**Intel® Edison**](https://theiotlearninginitiative.gitbooks.io/inteledison/content/)
+2. [**Intel® Galileo**](https://theiotlearninginitiative.gitbooks.io/intelgalileo/content/)
+3. [**Intel® Curie**](https://theiotlearninginitiative.gitbooks.io/intelcurie/content/)
+4. **Intel® Quark D2000**
+5. [**MinnowBoard MAX**](https://theiotlearninginitiative.gitbooks.io/minnowboardmax/content/)
+6. [**NodeMCU**](https://theiotlearninginitiative.gitbooks.io/nodemcu/content/) 
+7. [**Raspberry Pi**](https://theiotlearninginitiative.gitbooks.io/raspberrypi/content/)
+8. [**Next Thing Co. C.H.I.P.**](https://theiotlearninginitiative.gitbooks.io/nextthingcochip/content/)
+9. [**Arduino**](https://theiotlearninginitiative.gitbooks.io/arduino/content/)
+10. [**Photon**](https://theiotlearninginitiative.gitbooks.io/photon/content/)
+11. [**RedBear Duo**](https://theiotlearninginitiative.gitbooks.io/redbearduo/content/)
+12. [**Texas Instruments LaunchPad Development Kits**](https://theiotlearninginitiative.gitbooks.io/texas-instruments-launchpad-development-kits/content/)
+13. **Up Board**
+14. **LattePanda**
+15. **PINE A64**
+16. Go Board
+17. [Field Programmable Gate Array]()
+18. OpenPOWER
+19. [**Wio Link**](https://theiotlearninginitiative.gitbooks.io/wiolink/content/)
+20. [PyCom](https://www.pycom.io/)
 
 # Operating Systems
 
-01. __Yocto Project__
-02. __Windows 10__
-03. [__Google Brillo__](https://theiotlearninginitiative.gitbooks.io/googlebrillo/content/)
-04. [__Wind River Rocket__](https://theiotlearninginitiative.gitbooks.io/iotwindriverrocket/content/)
-05. [__Wind River Pulsar Linux__](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
-06. [__Zephyr__](https://theiotlearninginitiative.gitbooks.io/zephyr/content/)
-07. __Ostro__
-08. __Contiki__
-09. [__Real Time Linux__](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
-10. __FreeRTOS__
-11. [__Snappy Ubuntu Core__](https://theiotlearninginitiative.gitbooks.io/iotsnappyubuntucore/content/)
-12. __OpenWRT__
-13. __Clear Linux__
-14. [__Ubilinux__](https://theiotlearninginitiative.gitbooks.io/ubilinux/content/)
-15. __MynewT__
+1. **Yocto Project**
+2. **Windows 10**
+3. [**Google Brillo**](https://theiotlearninginitiative.gitbooks.io/googlebrillo/content/)
+4. [**Wind River Rocket**](https://theiotlearninginitiative.gitbooks.io/iotwindriverrocket/content/)
+5. [**Wind River Pulsar Linux**](https://theiotlearninginitiative.gitbooks.io/iotwindriverpulsarlinux/content/)
+6. [**Zephyr**](https://theiotlearninginitiative.gitbooks.io/zephyr/content/)
+7. **Ostro**
+8. **Contiki**
+9. [**Real Time Linux**](https://theiotlearninginitiative.gitbooks.io/internetofthingsrt/content/)
+10. **FreeRTOS**
+11. [**Snappy Ubuntu Core**](https://theiotlearninginitiative.gitbooks.io/iotsnappyubuntucore/content/)
+12. **OpenWRT**
+13. **Clear Linux**
+14. [**Ubilinux**](https://theiotlearninginitiative.gitbooks.io/ubilinux/content/)
+15. **MynewT**
 
 # Frameworks
 
-01. __[Internet Of Things IoTivity](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)__
-02. __[Kaa Project](http://www.kaaproject.org/)__
-03. __OpenHAB__
-04. __[ubiworx IoT Software Framework](http://www.ubiworx.com/ubiworx/)__
-05. __[Soletta Project](https://theiotlearninginitiative.gitbooks.io/soletta/content/)__
-06. __[Kura](http://www.eclipse.org/kura/)__
+1. [**Internet Of Things IoTivity**](https://theiotlearninginitiative.gitbooks.io/internetofthingsiotivity/content/)
+2. [**Kaa Project**](http://www.kaaproject.org/)
+3. **OpenHAB**
+4. [**ubiworx IoT Software Framework**](http://www.ubiworx.com/ubiworx/)
+5. [**Soletta Project**](https://theiotlearninginitiative.gitbooks.io/soletta/content/)
+6. [**Kura**](http://www.eclipse.org/kura/)
 
 # Specialization
 
-01. [__Internet of Things Sensors__](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
-02. [__Internet of Things Communications__](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
-03. [__Internet of Things Gateways__](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
-04. [__Internet of Things Cloud__](https://theiotlearninginitiative.gitbooks.io/internetofthingscloud/content/)
-05. [__Internet of Things Analytics__](https://theiotlearninginitiative.gitbooks.io/internetofthingsanalytics/content/)
-06. [__Internet of Things Security__]()
+1. [**Internet of Things Sensors**](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
+2. [**Internet of Things Communications**](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
+3. [**Internet of Things Gateways**](https://theiotlearninginitiative.gitbooks.io/internetofthingsgateways/content/)
+4. [**Internet of Things Cloud**](https://theiotlearninginitiative.gitbooks.io/internetofthingscloud/content/)
+5. [**Internet of Things Analytics**](https://theiotlearninginitiative.gitbooks.io/internetofthingsanalytics/content/)
+6. [**Internet of Things Security**]()
 
 # Platforms
 
-01. __Intel__
-02. [__Wind River IoT__](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
-03. [__IBM Internet of Things__](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
-04. [__Amazon Web Services IoT__](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
-05. __Microsoft Azure__
-06. [__Google Cloud Platform__](https://www.gitbook.com/book/theiotlearninginitiative/googlecloudplatform/details)
-07. __ThingWorx__
+1. **Intel**
+2. [**Wind River IoT**](https://theiotlearninginitiative.gitbooks.io/windriveriot/content/)
+3. [**IBM Internet of Things**](https://theiotlearninginitiative.gitbooks.io/ibminternetofthings/content/)
+4. [**Amazon Web Services IoT**](https://theiotlearninginitiative.gitbooks.io/amazonwebservicesiot/content/)
+5. **Microsoft Azure**
+6. [**Google Cloud Platform**](https://www.gitbook.com/book/theiotlearninginitiative/googlecloudplatform/details)
+7. **ThingWorx**
+
+
+
