@@ -22,7 +22,7 @@ Topics
 5. Integrated Development Environments
 6. [Software Defined Radio](https://theiotlearninginitiative.gitbooks.io/softwaredefinedradio/content/)
 7. [**Databases**](https://theiotlearninginitiative.gitbooks.io/databases/content/)
-8. [**Version Control Systems**](https://www.gitbook.com/book/theiotlearninginitiative/version-control-systems/welcome)
+8. [**Version Control Systems**](https://theiotlearninginitiative.gitbooks.io/version-control-systems/content/)
 
 
 # Programming Languages
