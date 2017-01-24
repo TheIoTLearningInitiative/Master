@@ -20,7 +20,7 @@
 - Entre Design HDL - Behavioral Simulation
 - Synthesis - Functional Simulation
 - Implementation (P&R) - Timing Simulation
-- Download - 
+- Download - In-Circuit Verification
 
 # Platforms
 
