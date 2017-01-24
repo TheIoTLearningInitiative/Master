@@ -17,7 +17,10 @@
 
 ## Generic FPGA Flow
 
-- 
+- Entre Design HDL
+- Synthesis
+- Implementation (P&R)
+- Download
 
 # Platforms
 
