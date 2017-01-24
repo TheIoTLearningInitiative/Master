@@ -6,6 +6,10 @@
 - Flip Flops - Sequential Logic
 - Multiplexers 
 
+- I/O cells
+
+
+
 # Platforms
 
 # Software Tools
