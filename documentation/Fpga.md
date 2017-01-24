@@ -13,7 +13,7 @@
   - BRAMs
   - Multipliers
   - Ethernet/PCI Controllers
-  - Clock Resources
+  - Clock Resources (PLL/MMCM)
 
 # Platforms
 
