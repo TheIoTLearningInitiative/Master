@@ -29,6 +29,8 @@
 - Implementation (P&R) - Timing Simulation
 - Download - In-Circuit Verification
 
+## Why FPGA
+
 # Platforms
 
 # Software Tools
