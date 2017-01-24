@@ -8,7 +8,12 @@
 
 - I/O cells
 
-
+- Dedicated Resources
+  - DSP Blocks
+  - BRAMs
+  - Multipliers
+  - Ethernet/PCI Controllers
+  - Clock Resources
 
 # Platforms
 
