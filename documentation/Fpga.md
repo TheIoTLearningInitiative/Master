@@ -37,4 +37,4 @@
 
 ## ASIC
 
->  [](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)
+> An application-specific integrated circuit (ASIC) /ˈeɪsɪk/, is an integrated circuit (IC) customized for a particular use, rather than intended for general-purpose use. For example, a chip designed to run in a digital voice recorder or a high-efficiency Bitcoin miner is an ASIC. Application-specific standard products (ASSPs) are intermediate between ASICs and industry standard integrated circuits like the 7400 or the 4000 series [Wikipedia](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)
