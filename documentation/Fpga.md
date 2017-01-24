@@ -17,10 +17,10 @@
 
 ## Generic FPGA Flow
 
-- Entre Design HDL
-- Synthesis
-- Implementation (P&R)
-- Download
+- Entre Design HDL - Behavioral Simulation
+- Synthesis - Functional Simulation
+- Implementation (P&R) - Timing Simulation
+- Download - 
 
 # Platforms
 
