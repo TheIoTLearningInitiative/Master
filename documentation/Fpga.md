@@ -15,6 +15,13 @@
   - Ethernet/PCI Controllers
   - Clock Resources (PLL/MMCM)
 
+## Avdantages
+
+- Parallelism
+- Flexibility
+- Low-Cost
+- High Performance
+
 ## Generic FPGA Flow
 
 - Entre Design HDL - Behavioral Simulation
